@@ -1,0 +1,1201 @@
+post_id,platform,post_type,topic,day_of_week,posting_hour,follower_count,caption_length_chars,hashtag_count,video_duration_seconds,contains_call_to_action,paid_promotion,historical_avg_engagement_rate_pct,impressions,likes,comments,shares,engagement_rate_pct,engagement_level
+POST_00001,Facebook,Short Video,Entertainment,Friday,14,12663,149,3,24,0,0,2.732,8198,600,73,36,8.319,High
+POST_00002,TikTok,Short Video,Entertainment,Friday,19,7630,102,3,58,1,0,3.904,2874,593,52,59,25.0,High
+POST_00003,X,Image,Entertainment,Tuesday,15,8205,3,4,0,0,0,2.029,1085,41,8,2,4.178,Medium
+POST_00004,Facebook,Long Video,Entertainment,Saturday,14,15627,80,4,563,1,1,0.703,3298,72,10,1,2.551,Medium
+POST_00005,Instagram,Image,Food,Friday,11,3915,100,1,0,0,0,2.072,1920,87,11,19,5.243,High
+POST_00006,X,Text,Travel,Saturday,5,8436,65,6,0,0,0,11.853,5396,973,85,326,25.0,High
+POST_00007,Facebook,Short Video,Technology,Thursday,6,5929,105,4,75,1,1,4.44,2629,362,67,84,21.021,High
+POST_00008,Facebook,Short Video,Education,Sunday,17,1659,74,6,89,1,0,7.89,225,45,9,5,25.0,High
+POST_00009,Instagram,Carousel,Technology,Wednesday,1,3227,310,2,0,1,0,2.643,907,104,17,3,13.654,High
+POST_00010,TikTok,Short Video,Fitness,Saturday,2,38878,62,4,31,0,0,0.875,11642,679,136,67,7.267,High
+POST_00011,TikTok,Long Video,Travel,Tuesday,9,11905,44,1,243,0,0,1.739,7715,486,47,74,7.841,High
+POST_00012,X,Image,Fitness,Tuesday,18,2156,144,5,0,1,0,3.981,1016,102,24,10,14.265,High
+POST_00013,YouTube,Long Video,Lifestyle,Thursday,15,1736,68,6,429,0,0,3.647,255,22,2,3,12.539,High
+POST_00014,Facebook,Carousel,Fitness,Thursday,14,7243,77,1,0,1,0,3.182,1971,145,18,42,10.505,High
+POST_00015,TikTok,Short Video,Education,Saturday,12,38606,72,8,7,0,0,2.391,4157,344,53,42,11.183,High
+POST_00016,Instagram,Short Video,Technology,Wednesday,2,6722,139,3,5,0,0,5.366,3039,528,44,165,25.0,High
+POST_00017,YouTube,Short Video,Food,Sunday,7,29941,34,3,43,1,0,2.429,13876,702,102,104,6.382,High
+POST_00018,Instagram,Short Video,Education,Wednesday,1,11521,149,3,90,1,0,3.79,1299,201,21,41,20.463,High
+POST_00019,Facebook,Long Video,Education,Thursday,18,12981,119,1,1271,1,0,3.563,3521,134,25,9,5.186,High
+POST_00020,YouTube,Short Video,Travel,Sunday,18,2130,248,1,25,1,0,2.613,1266,150,29,14,16.662,High
+POST_00021,Facebook,Image,Entertainment,Thursday,6,20692,94,5,0,0,0,1.971,11407,279,42,0,2.757,Medium
+POST_00022,TikTok,Short Video,Entertainment,Friday,7,5796,36,5,88,1,0,2.53,2360,489,62,18,23.263,High
+POST_00023,X,Short Video,Food,Sunday,7,19208,95,1,62,1,0,8.968,6842,1267,166,282,25.0,High
+POST_00024,X,Image,Lifestyle,Sunday,21,3589,103,6,0,0,1,5.9,3129,209,47,42,9.104,High
+POST_00025,Facebook,Image,Business,Thursday,11,9672,182,6,0,0,0,5.609,4755,293,51,80,8.969,High
+POST_00026,Instagram,Story,Business,Wednesday,18,11521,36,2,0,1,0,2.076,7177,604,100,136,11.045,High
+POST_00027,TikTok,Short Video,Travel,Tuesday,10,6946,21,4,21,0,0,1.451,839,26,2,9,4.815,Medium
+POST_00028,Instagram,Carousel,Lifestyle,Thursday,16,12143,96,6,0,1,0,5.849,2439,314,31,22,15.714,High
+POST_00029,Instagram,Story,Business,Sunday,12,6208,255,2,0,0,0,5.263,606,113,13,5,23.239,High
+POST_00030,Facebook,Image,Lifestyle,Thursday,6,4234,130,5,0,1,0,3.451,2433,138,27,26,7.675,High
+POST_00031,Facebook,Image,Entertainment,Wednesday,21,40355,136,3,0,1,1,2.61,25916,1549,300,14,7.432,High
+POST_00032,X,Image,Business,Monday,17,23131,26,3,0,1,0,1.43,4192,122,25,0,3.203,Medium
+POST_00033,TikTok,Short Video,Fitness,Wednesday,18,3786,85,6,54,1,0,5.156,2405,488,72,87,25.0,High
+POST_00034,TikTok,Short Video,Education,Tuesday,22,14306,184,3,70,0,0,6.144,8938,1872,250,70,25.0,High
+POST_00035,TikTok,Short Video,Business,Sunday,5,3855,104,2,55,1,1,2.203,1082,149,25,0,15.007,High
+POST_00036,Instagram,Image,Entertainment,Thursday,2,2478,20,3,0,1,1,2.104,1501,125,14,5,9.172,High
+POST_00037,Instagram,Image,Fitness,Monday,13,22783,84,4,0,1,0,6.333,10498,2142,322,122,25.0,High
+POST_00038,TikTok,Short Video,Technology,Monday,7,1474,124,5,61,1,0,2.248,121,8,1,2,8.262,High
+POST_00039,Instagram,Image,Education,Saturday,10,20472,78,6,0,1,1,8.513,13061,1780,216,458,18.773,High
+POST_00040,YouTube,Short Video,Travel,Sunday,5,6293,40,1,21,1,1,3.014,1751,144,15,6,10.428,High
+POST_00041,TikTok,Long Video,Fitness,Saturday,9,6558,147,6,457,0,0,2.587,3893,610,85,136,21.732,High
+POST_00042,Facebook,Carousel,Business,Monday,9,12206,60,2,0,0,1,3.28,9193,391,65,54,5.567,High
+POST_00043,Facebook,Carousel,Food,Monday,8,14489,111,4,0,0,0,2.587,8635,312,39,76,5.04,High
+POST_00044,TikTok,Short Video,Travel,Tuesday,17,3546,83,7,27,0,0,5.945,1814,324,35,58,23.234,High
+POST_00045,Facebook,Carousel,Business,Saturday,14,16609,58,6,0,0,0,5.209,2889,148,16,47,8.307,High
+POST_00046,Facebook,Image,Business,Saturday,11,9075,273,2,0,0,0,5.822,2591,313,58,2,15.144,High
+POST_00047,TikTok,Short Video,Food,Saturday,2,2307,53,2,34,0,0,3.542,1116,219,46,16,25.0,High
+POST_00048,Instagram,Image,Education,Monday,13,6837,88,4,0,0,0,2.49,1806,86,19,8,6.73,High
+POST_00049,Facebook,Text,Lifestyle,Tuesday,4,32250,82,2,0,0,0,3.184,15632,237,49,29,2.119,Medium
+POST_00050,Instagram,Story,Food,Sunday,7,43329,95,4,0,1,0,2.532,11768,696,66,113,7.146,High
+POST_00051,Instagram,Image,Education,Sunday,9,16603,260,6,0,1,0,7.169,3010,557,47,63,22.029,High
+POST_00052,Instagram,Image,Education,Saturday,3,2464,124,2,0,1,0,5.553,924,86,11,3,11.998,High
+POST_00053,Facebook,Image,Technology,Monday,9,13234,58,0,0,1,0,3.043,6235,329,47,12,6.212,High
+POST_00054,YouTube,Long Video,Business,Monday,6,18974,210,6,660,1,0,1.922,7111,309,59,34,6.111,High
+POST_00055,Facebook,Image,Lifestyle,Monday,20,16742,139,5,0,0,0,7.468,7464,744,76,59,11.78,High
+POST_00056,Facebook,Text,Business,Friday,20,17764,59,3,0,0,0,3.45,5856,299,65,17,6.197,High
+POST_00057,TikTok,Long Video,Travel,Saturday,0,11652,190,6,1047,0,0,2.979,6101,639,76,77,12.08,High
+POST_00058,YouTube,Long Video,Lifestyle,Friday,14,7537,26,0,1197,0,0,7.504,3395,679,107,48,25.0,High
+POST_00059,Instagram,Short Video,Entertainment,Tuesday,15,4410,33,3,12,0,1,2.417,2426,481,103,50,25.0,High
+POST_00060,Instagram,Story,Travel,Saturday,9,1214,18,3,0,0,0,2.685,398,16,2,3,5.667,High
+POST_00061,YouTube,Short Video,Travel,Monday,11,11380,11,5,21,1,0,2.819,4385,659,121,26,19.492,High
+POST_00062,TikTok,Short Video,Fitness,Saturday,18,9760,181,7,58,0,0,1.551,1064,177,35,27,22.37,High
+POST_00063,YouTube,Short Video,Business,Sunday,9,14151,96,10,61,0,0,3.807,6509,398,74,9,7.327,High
+POST_00064,Facebook,Text,Education,Saturday,1,2126,20,7,0,1,1,2.104,564,28,5,5,4.418,Medium
+POST_00065,YouTube,Long Video,Technology,Sunday,8,15444,81,6,1606,1,0,2.338,8807,353,47,43,4.821,Medium
+POST_00066,YouTube,Long Video,Food,Friday,6,63230,152,2,794,1,0,2.172,34336,1546,189,90,5.229,High
+POST_00067,YouTube,Short Video,Education,Thursday,9,8764,46,4,81,1,0,2.317,3338,170,38,41,7.81,High
+POST_00068,TikTok,Image,Business,Wednesday,5,7618,65,4,0,1,0,2.017,4287,195,34,40,5.765,High
+POST_00069,Instagram,Carousel,Food,Sunday,3,11036,281,4,0,0,0,3.666,5102,843,141,81,20.627,High
+POST_00070,TikTok,Short Video,Lifestyle,Friday,23,61841,70,5,18,1,0,2.938,9926,549,85,149,7.972,High
+POST_00071,Instagram,Story,Entertainment,Tuesday,3,2911,22,4,0,0,0,3.286,1462,83,9,24,7.495,High
+POST_00072,TikTok,Short Video,Education,Sunday,16,9928,55,2,32,0,0,11.678,6429,1273,176,86,25.0,High
+POST_00073,X,Text,Food,Monday,17,3642,19,5,0,0,0,2.938,376,17,4,5,6.695,High
+POST_00074,Instagram,Short Video,Business,Friday,14,4689,131,6,54,0,1,4.463,1390,173,20,23,14.419,High
+POST_00075,Instagram,Image,Education,Tuesday,21,7711,41,6,0,0,1,4.752,4379,589,79,191,17.981,High
+POST_00076,Instagram,Carousel,Technology,Friday,0,31173,39,9,0,0,0,3.091,9871,945,101,298,13.035,High
+POST_00077,Instagram,Image,Fitness,Wednesday,7,49069,298,5,0,0,0,3.72,21757,1374,213,226,8.09,High
+POST_00078,YouTube,Short Video,Technology,Thursday,4,12684,30,3,6,0,0,3.237,5254,306,33,12,6.274,High
+POST_00079,YouTube,Long Video,Fitness,Friday,13,5560,25,3,717,0,0,3.577,2942,363,65,33,16.035,High
+POST_00080,Facebook,Short Video,Fitness,Saturday,15,98001,34,4,71,1,1,2.318,15931,2381,244,582,19.99,High
+POST_00081,YouTube,Short Video,Business,Wednesday,21,5284,155,3,47,0,0,2.438,1749,73,8,16,5.06,High
+POST_00082,TikTok,Short Video,Food,Sunday,9,4577,120,5,20,1,0,3.23,2609,526,44,93,25.0,High
+POST_00083,Facebook,Short Video,Fitness,Thursday,5,1373,54,1,5,0,0,1.082,393,17,1,4,5.874,High
+POST_00084,Instagram,Short Video,Lifestyle,Tuesday,22,32731,50,6,30,1,0,7.286,12017,2216,476,329,25.0,High
+POST_00085,Instagram,Story,Entertainment,Monday,16,21338,114,3,0,0,0,10.503,1969,205,48,33,14.523,High
+POST_00086,Instagram,Story,Education,Tuesday,18,90926,98,3,0,0,1,3.514,25504,2785,542,249,13.85,High
+POST_00087,Facebook,Carousel,Education,Friday,10,2019,73,4,0,0,0,4.614,695,46,9,3,7.031,High
+POST_00088,TikTok,Short Video,Travel,Thursday,10,34827,123,3,33,1,0,5.799,10706,1846,154,190,20.442,High
+POST_00089,Instagram,Carousel,Education,Wednesday,9,8691,32,8,0,1,1,1.544,5718,170,35,9,3.493,Medium
+POST_00090,TikTok,Short Video,Technology,Thursday,17,18144,41,7,70,1,0,5.332,7779,1634,231,132,25.0,High
+POST_00091,Instagram,Carousel,Food,Saturday,5,1559,127,1,0,1,0,2.531,906,76,15,8,9.483,High
+POST_00092,Facebook,Short Video,Fitness,Friday,23,35174,104,4,8,0,0,11.28,19951,4021,678,370,25.0,High
+POST_00093,TikTok,Short Video,Education,Monday,4,17792,85,1,11,1,0,2.885,3869,686,86,79,21.767,High
+POST_00094,TikTok,Short Video,Travel,Monday,11,7793,291,4,21,0,0,5.273,701,125,15,32,25.0,High
+POST_00095,TikTok,Short Video,Technology,Thursday,7,15446,142,1,79,0,0,2.901,8758,1154,98,80,15.894,High
+POST_00096,YouTube,Short Video,Education,Wednesday,15,3768,56,5,6,1,0,10.712,1008,192,28,37,25.0,High
+POST_00097,TikTok,Short Video,Entertainment,Saturday,16,4539,44,4,11,1,0,2.414,1261,213,31,22,24.942,High
+POST_00098,Instagram,Image,Travel,Friday,22,5097,107,7,0,0,0,6.074,867,85,19,4,10.779,High
+POST_00099,Instagram,Short Video,Business,Saturday,18,1270,181,4,58,0,1,4.517,814,155,11,17,25.0,High
+POST_00100,X,Text,Travel,Friday,5,19182,16,3,0,0,0,3.997,4597,124,23,30,4.193,Medium
+POST_00101,X,Text,Lifestyle,Wednesday,4,26677,102,5,0,0,0,3.63,4821,173,24,6,4.013,Medium
+POST_00102,Facebook,Short Video,Business,Friday,21,4018,64,2,61,0,0,2.217,1474,70,6,24,6.493,High
+POST_00103,Instagram,Short Video,Lifestyle,Friday,11,11478,96,3,16,1,0,0.772,5827,318,44,87,7.893,High
+POST_00104,X,Text,Entertainment,Saturday,2,6213,23,7,0,0,0,5.778,1451,138,17,7,11.024,High
+POST_00105,Facebook,Text,Travel,Tuesday,19,11251,181,3,0,0,0,2.446,5530,132,21,28,3.037,Medium
+POST_00106,Facebook,Text,Lifestyle,Friday,15,4326,213,3,0,0,0,6.089,1485,45,5,7,3.964,Medium
+POST_00107,TikTok,Short Video,Food,Tuesday,0,3349,133,5,40,1,1,3.883,1402,268,22,58,25.0,High
+POST_00108,Instagram,Short Video,Fitness,Saturday,18,23203,241,5,26,0,0,6.192,6611,1210,133,54,20.748,High
+POST_00109,Instagram,Image,Entertainment,Saturday,14,7601,62,2,0,0,1,4.974,1672,204,39,1,15.336,High
+POST_00110,X,Short Video,Business,Friday,14,61212,100,3,10,1,0,0.825,16502,218,45,29,1.809,Low
+POST_00111,TikTok,Short Video,Entertainment,Sunday,20,8487,134,7,73,1,0,4.488,4932,1068,103,97,25.0,High
+POST_00112,Instagram,Story,Business,Thursday,11,3209,108,4,0,0,0,2.649,443,60,11,13,16.81,High
+POST_00113,TikTok,Short Video,Lifestyle,Monday,11,27637,68,4,64,1,0,6.073,17307,3445,732,113,25.0,High
+POST_00114,YouTube,Short Video,Technology,Friday,14,15226,74,3,27,0,0,4.43,2151,425,41,46,25.0,High
+POST_00115,Instagram,Image,Lifestyle,Saturday,4,16762,201,1,0,1,0,4.458,4799,713,65,92,18.346,High
+POST_00116,X,Image,Food,Monday,3,26651,82,2,0,0,0,2.755,11342,487,37,77,5.684,High
+POST_00117,Facebook,Short Video,Education,Monday,20,4218,174,5,40,1,1,1.937,3174,290,27,26,10.068,High
+POST_00118,Facebook,Image,Entertainment,Tuesday,5,7134,79,2,0,1,1,2.522,1558,62,12,5,4.939,Medium
+POST_00119,TikTok,Long Video,Food,Saturday,12,6826,173,3,1602,1,0,1.189,1095,68,12,0,7.151,High
+POST_00120,YouTube,Long Video,Fitness,Thursday,6,2228,89,4,906,1,1,2.313,1317,97,17,23,10.388,High
+POST_00121,YouTube,Long Video,Business,Sunday,5,6225,127,3,1055,0,0,1.43,1536,26,3,6,2.395,Medium
+POST_00122,YouTube,Long Video,Travel,Sunday,14,30834,49,7,1394,1,0,1.451,13794,307,57,4,2.553,Medium
+POST_00123,Instagram,Image,Business,Thursday,19,10273,100,5,0,0,0,3.412,5626,427,48,102,9.644,High
+POST_00124,TikTok,Long Video,Travel,Friday,10,2108,50,5,799,0,0,4.293,261,26,2,7,12.388,High
+POST_00125,Instagram,Carousel,Travel,Wednesday,3,1709,61,7,0,0,0,3.145,959,45,3,7,5.969,High
+POST_00126,TikTok,Long Video,Lifestyle,Monday,5,42820,65,2,1546,1,0,2.432,4342,199,41,13,6.147,High
+POST_00127,TikTok,Short Video,Business,Wednesday,3,7403,73,3,83,1,1,1.9,5919,545,110,105,13.09,High
+POST_00128,Instagram,Short Video,Business,Friday,21,4241,160,3,79,1,0,2.688,2697,136,25,30,7.982,High
+POST_00129,Instagram,Carousel,Food,Tuesday,7,6161,59,3,0,0,0,2.036,2836,162,32,26,6.535,High
+POST_00130,YouTube,Short Video,Education,Tuesday,8,1849,93,5,65,1,0,3.091,1185,169,17,43,18.483,High
+POST_00131,Instagram,Short Video,Education,Monday,1,33627,174,6,22,1,0,1.386,18445,963,144,255,7.676,High
+POST_00132,X,Text,Technology,Saturday,10,5469,125,4,0,1,0,4.706,575,25,4,1,5.487,High
+POST_00133,YouTube,Long Video,Fitness,Sunday,21,31805,16,4,1429,0,0,2.343,2613,61,14,8,3.181,Medium
+POST_00134,TikTok,Image,Food,Saturday,9,8532,22,4,0,0,0,3.936,783,70,10,4,11.697,High
+POST_00135,YouTube,Image,Business,Wednesday,15,33844,110,2,0,1,0,5.213,11425,1133,96,67,11.127,High
+POST_00136,Instagram,Story,Food,Friday,4,10474,57,1,0,1,0,3.832,4559,586,139,61,17.952,High
+POST_00137,X,Text,Fitness,Sunday,3,19019,19,11,0,0,0,4.966,6741,432,53,10,7.061,High
+POST_00138,TikTok,Short Video,Travel,Friday,17,16632,53,8,10,0,0,1.027,7749,590,80,152,11.096,High
+POST_00139,Facebook,Text,Business,Wednesday,1,15112,113,3,0,0,0,2.44,5081,231,21,34,5.524,High
+POST_00140,Instagram,Carousel,Food,Wednesday,10,11475,64,4,0,0,1,5.87,1615,338,23,25,21.776,High
+POST_00141,TikTok,Short Video,Food,Saturday,7,6419,87,10,70,1,0,4.234,1341,291,45,10,25.0,High
+POST_00142,TikTok,Long Video,Education,Thursday,0,55019,69,5,189,0,0,8.845,35531,6182,1136,1199,24.431,High
+POST_00143,X,Text,Fitness,Saturday,12,3271,48,4,0,0,0,8.171,906,154,18,39,24.01,High
+POST_00144,YouTube,Long Video,Entertainment,Sunday,23,8138,99,7,1443,1,0,3.773,2157,282,30,73,19.137,High
+POST_00145,TikTok,Image,Lifestyle,Monday,1,8224,17,0,0,0,0,2.786,1374,53,7,2,3.809,Medium
+POST_00146,Instagram,Short Video,Food,Saturday,19,12117,43,3,76,0,0,1.889,7787,431,66,95,7.716,High
+POST_00147,TikTok,Short Video,Education,Wednesday,12,5273,141,6,30,0,1,2.463,1504,189,23,30,14.4,High
+POST_00148,YouTube,Short Video,Fitness,Thursday,17,11100,23,10,72,0,0,2.556,4980,193,22,43,5.085,High
+POST_00149,TikTok,Short Video,Lifestyle,Tuesday,2,6844,83,5,24,1,0,2.309,711,140,30,17,24.892,High
+POST_00150,Instagram,Image,Food,Wednesday,20,1665,60,3,0,1,0,1.931,196,32,7,4,20.374,High
+POST_00151,Facebook,Text,Lifestyle,Wednesday,0,8180,56,4,0,1,0,3.991,3996,181,24,37,6.359,High
+POST_00152,X,Image,Lifestyle,Monday,21,2695,150,4,0,0,0,8.136,1191,181,32,14,18.734,High
+POST_00153,Instagram,Carousel,Technology,Saturday,15,1430,170,5,0,1,0,5.346,668,134,28,14,25.0,High
+POST_00154,YouTube,Short Video,Education,Tuesday,8,9291,34,4,68,0,0,2.68,1966,132,10,30,9.482,High
+POST_00155,Instagram,Story,Entertainment,Wednesday,0,13198,73,2,0,1,0,5.589,8465,1257,272,81,19.554,High
+POST_00156,YouTube,Short Video,Travel,Tuesday,14,13721,13,1,81,0,0,3.872,5464,486,77,84,11.066,High
+POST_00157,Instagram,Short Video,Education,Tuesday,2,14287,145,3,68,0,0,3.129,9038,1107,169,57,15.197,High
+POST_00158,YouTube,Long Video,Technology,Wednesday,14,1173,80,4,1630,0,0,3.024,203,18,2,4,11.133,High
+POST_00159,Facebook,Long Video,Entertainment,Sunday,18,2077,22,3,981,1,1,2.867,871,144,16,25,20.149,High
+POST_00160,Facebook,Image,Food,Sunday,6,58309,44,5,0,1,1,4.578,21359,2141,456,369,14.07,High
+POST_00161,Instagram,Short Video,Fitness,Wednesday,5,2843,32,5,16,0,0,3.456,1451,172,37,43,16.729,High
+POST_00162,X,Text,Technology,Thursday,5,14925,42,5,0,1,0,2.144,7553,84,7,9,1.372,Low
+POST_00163,Instagram,Short Video,Travel,Sunday,5,4076,14,6,20,1,0,2.087,1456,217,32,7,18.037,High
+POST_00164,Instagram,Image,Lifestyle,Tuesday,2,8775,199,6,0,0,1,3.786,1056,66,16,10,7.519,High
+POST_00165,YouTube,Long Video,Food,Sunday,5,4301,35,3,1487,0,0,4.051,773,92,20,11,15.627,High
+POST_00166,TikTok,Short Video,Lifestyle,Monday,15,14207,83,4,23,1,0,2.694,1543,302,54,46,25.0,High
+POST_00167,Facebook,Image,Food,Tuesday,7,9290,112,2,0,1,0,1.717,5228,86,8,12,2.156,Medium
+POST_00168,Facebook,Image,Education,Wednesday,18,5175,170,7,0,1,1,6.367,1712,191,27,49,15.708,High
+POST_00169,TikTok,Short Video,Lifestyle,Monday,19,2835,85,3,42,1,0,5.665,417,98,8,7,25.0,High
+POST_00170,X,Text,Fitness,Saturday,18,10591,68,3,0,1,1,1.073,4030,78,17,18,2.856,Medium
+POST_00171,Instagram,Image,Travel,Saturday,12,2409,88,7,0,0,0,6.685,298,41,7,0,14.395,High
+POST_00172,TikTok,Long Video,Lifestyle,Wednesday,7,12425,34,4,358,1,0,2.853,7926,1023,249,203,18.41,High
+POST_00173,Instagram,Carousel,Lifestyle,Saturday,22,112025,37,4,0,0,0,3.552,29076,1565,142,398,7.258,High
+POST_00174,X,Image,Lifestyle,Saturday,4,31262,67,7,0,1,0,5.985,19127,597,143,79,4.356,Medium
+POST_00175,Instagram,Story,Lifestyle,Saturday,11,16619,9,5,0,1,0,7.941,7796,1358,326,172,25.0,High
+POST_00176,Instagram,Image,Business,Saturday,10,7438,48,2,0,1,0,5.555,2995,257,41,0,9.401,High
+POST_00177,TikTok,Short Video,Fitness,Friday,17,1165,57,4,9,0,0,3.654,408,70,15,7,25.0,High
+POST_00178,X,Short Video,Technology,Monday,13,2159,265,7,30,0,0,1.502,1018,33,5,10,3.499,Medium
+POST_00179,X,Image,Technology,Sunday,19,29225,185,1,0,0,0,1.05,13770,248,27,9,2.101,Medium
+POST_00180,Facebook,Short Video,Food,Friday,22,3678,112,6,88,0,0,5.187,316,36,3,11,19.272,High
+POST_00181,X,Text,Food,Sunday,9,4026,147,4,0,0,0,6.694,2405,81,7,29,3.669,Medium
+POST_00182,X,Text,Technology,Sunday,20,6866,36,5,0,0,0,2.044,1989,43,4,17,3.71,Medium
+POST_00183,TikTok,Short Video,Business,Tuesday,4,2801,90,5,77,1,0,2.759,788,84,15,10,15.466,High
+POST_00184,TikTok,Image,Lifestyle,Wednesday,21,2376,135,5,0,0,1,2.355,999,196,22,10,22.087,High
+POST_00185,Facebook,Text,Technology,Tuesday,4,7704,37,1,0,0,1,2.321,4894,144,14,53,4.585,Medium
+POST_00186,YouTube,Short Video,Education,Monday,20,3322,23,2,39,0,0,5.78,977,182,16,23,25.0,High
+POST_00187,TikTok,Short Video,Technology,Sunday,9,3862,104,4,31,1,0,3.608,1131,173,33,31,19.955,High
+POST_00188,Instagram,Carousel,Travel,Sunday,23,3710,25,5,0,0,1,2.821,581,44,10,8,10.244,High
+POST_00189,Facebook,Text,Business,Sunday,3,13661,119,8,0,1,0,13.802,4337,714,94,63,19.805,High
+POST_00190,Instagram,Image,Technology,Sunday,11,6424,169,4,0,0,0,1.454,1061,34,6,2,3.819,Medium
+POST_00191,X,Short Video,Entertainment,Friday,21,6777,38,6,54,0,0,4.325,3847,718,160,30,22.96,High
+POST_00192,Instagram,Short Video,Fitness,Thursday,1,14719,40,2,59,0,0,1.797,3984,208,41,40,6.928,High
+POST_00193,Instagram,Image,Fitness,Sunday,6,7030,165,6,0,0,0,2.935,4412,148,31,39,4.952,Medium
+POST_00194,Facebook,Image,Business,Thursday,2,6134,86,0,0,1,1,3.473,3893,166,26,9,5.038,High
+POST_00195,Instagram,Short Video,Food,Friday,7,12970,151,4,80,0,0,5.092,6627,1320,292,39,25.0,High
+POST_00196,Instagram,Image,Education,Tuesday,9,15806,69,4,0,0,0,2.772,9803,374,47,69,5.387,High
+POST_00197,YouTube,Long Video,Business,Saturday,14,6994,72,4,623,0,0,2.615,1512,55,11,11,5.114,High
+POST_00198,X,Short Video,Fitness,Saturday,6,8783,84,3,8,0,0,2.745,3542,377,49,27,12.058,High
+POST_00199,Instagram,Short Video,Travel,Friday,3,3707,231,5,70,0,0,1.767,382,14,1,6,5.821,High
+POST_00200,TikTok,Short Video,Education,Thursday,4,3426,143,1,63,0,1,4.531,635,71,13,4,14.05,High
+POST_00201,Facebook,Short Video,Technology,Tuesday,22,17485,47,4,36,1,0,3.736,5052,315,61,10,7.455,High
+POST_00202,X,Text,Technology,Monday,22,12644,94,6,0,0,0,4.065,5930,208,47,33,4.791,Medium
+POST_00203,TikTok,Image,Lifestyle,Friday,5,12775,65,4,0,0,1,3.08,9555,870,191,60,11.87,High
+POST_00204,Instagram,Carousel,Travel,Friday,4,10730,56,4,0,1,0,2.878,2426,115,21,11,5.473,High
+POST_00205,Instagram,Image,Entertainment,Saturday,1,8486,117,4,0,0,0,6.109,4302,854,131,85,25.0,High
+POST_00206,Instagram,Carousel,Education,Sunday,23,16259,101,1,0,1,0,5.613,3379,640,128,0,21.852,High
+POST_00207,Instagram,Story,Entertainment,Thursday,16,20642,38,7,0,1,0,6.968,1722,338,36,55,25.0,High
+POST_00208,YouTube,Short Video,Business,Saturday,18,20155,84,4,68,1,1,3.928,3020,476,47,164,25.0,High
+POST_00209,Instagram,Story,Education,Saturday,6,7326,55,5,0,1,0,6.734,3031,294,43,56,12.886,High
+POST_00210,TikTok,Short Video,Food,Tuesday,15,32434,112,3,73,1,0,2.545,11785,1825,294,147,19.278,High
+POST_00211,Facebook,Text,Entertainment,Saturday,1,10182,53,6,0,0,1,2.865,3218,259,49,39,10.551,High
+POST_00212,YouTube,Image,Technology,Monday,16,15250,73,3,0,1,1,6.175,1723,374,70,5,25.0,High
+POST_00213,Instagram,Short Video,Food,Friday,13,10743,57,4,19,0,0,5.089,4337,740,65,227,25.0,High
+POST_00214,Facebook,Text,Education,Sunday,7,10373,17,5,0,0,1,2.728,7646,386,85,74,6.619,High
+POST_00215,Facebook,Image,Entertainment,Friday,17,3882,224,6,0,1,0,1.8,462,8,1,3,2.768,Medium
+POST_00216,Facebook,Text,Food,Sunday,15,16339,84,9,0,1,0,2.86,8166,376,76,0,5.367,High
+POST_00217,Instagram,Short Video,Education,Monday,10,139426,229,2,59,1,0,2.196,61582,2723,339,275,5.551,High
+POST_00218,Instagram,Short Video,Technology,Thursday,4,5570,86,5,24,0,0,8.262,1967,400,68,43,25.0,High
+POST_00219,X,Short Video,Food,Saturday,0,8699,131,7,65,1,0,4.861,935,166,34,25,25.0,High
+POST_00220,TikTok,Image,Entertainment,Friday,22,5186,50,1,0,0,0,2.1,3144,133,18,3,5.467,High
+POST_00221,TikTok,Short Video,Entertainment,Sunday,6,4974,51,2,33,1,0,1.801,1751,272,25,21,16.767,High
+POST_00222,TikTok,Short Video,Technology,Thursday,7,37966,80,7,61,1,0,2.086,11685,1120,97,258,12.346,High
+POST_00223,YouTube,Long Video,Fitness,Friday,16,4134,227,3,1412,0,0,2.353,2360,185,16,22,9.291,High
+POST_00224,X,Text,Education,Wednesday,6,5043,39,5,0,1,0,2.92,2834,40,5,2,2.103,Medium
+POST_00225,Instagram,Carousel,Lifestyle,Sunday,9,1656,13,3,0,0,1,5.907,1105,118,21,20,13.11,High
+POST_00226,X,Text,Business,Monday,17,3798,163,10,0,0,0,1.881,2099,38,6,8,2.518,Medium
+POST_00227,Instagram,Image,Lifestyle,Tuesday,14,1467,137,5,0,1,1,11.273,298,49,9,5,18.711,High
+POST_00228,YouTube,Short Video,Lifestyle,Monday,15,15241,60,1,77,1,0,1.905,7829,464,39,107,8.139,High
+POST_00229,YouTube,Long Video,Fitness,Friday,0,133212,284,5,1485,0,0,1.474,35564,1089,99,121,3.801,Medium
+POST_00230,Instagram,Carousel,Technology,Tuesday,10,5615,292,6,0,0,0,8.099,3225,604,116,48,25.0,High
+POST_00231,Instagram,Story,Technology,Wednesday,11,1530,15,7,0,0,0,6.618,445,57,12,10,16.975,High
+POST_00232,TikTok,Short Video,Travel,Saturday,15,19930,49,3,90,0,0,2.895,2211,293,56,42,17.774,High
+POST_00233,X,Text,Education,Wednesday,3,3916,80,0,0,0,0,3.947,1238,64,11,4,6.218,High
+POST_00234,YouTube,Short Video,Fitness,Tuesday,3,29713,109,4,73,0,0,4.002,15194,812,206,159,7.988,High
+POST_00235,X,Text,Technology,Monday,18,6111,98,5,0,0,0,3.45,2233,123,28,14,7.286,High
+POST_00236,Facebook,Text,Business,Tuesday,16,4307,83,5,0,1,0,1.568,2219,34,7,10,2.632,Medium
+POST_00237,TikTok,Short Video,Fitness,Sunday,19,6782,34,3,50,0,0,0.817,678,27,3,3,5.259,High
+POST_00238,Facebook,Short Video,Business,Thursday,6,17288,119,7,71,0,0,2.011,3128,94,8,33,4.652,Medium
+POST_00239,Instagram,Story,Entertainment,Sunday,23,6454,124,2,0,1,0,8.689,2589,440,86,108,25.0,High
+POST_00240,Instagram,Story,Entertainment,Tuesday,6,4930,155,3,0,0,0,8.878,1477,324,43,21,25.0,High
+POST_00241,Facebook,Image,Business,Wednesday,15,6641,30,3,0,1,0,2.771,3105,66,7,23,3.65,Medium
+POST_00242,Facebook,Image,Technology,Tuesday,3,2271,71,0,0,0,0,1.889,1427,33,3,5,3.197,Medium
+POST_00243,Instagram,Image,Travel,Wednesday,22,12052,57,6,0,0,0,3.729,5497,266,60,27,6.441,High
+POST_00244,YouTube,Short Video,Fitness,Thursday,7,1357,30,6,83,1,0,4.074,431,42,3,5,14.147,High
+POST_00245,YouTube,Short Video,Technology,Saturday,19,5197,70,5,7,0,0,4.453,2022,329,71,60,21.907,High
+POST_00246,X,Image,Education,Wednesday,7,17315,36,5,0,0,0,0.797,10394,58,14,12,0.653,Low
+POST_00247,YouTube,Long Video,Education,Saturday,18,10971,25,8,1420,1,1,18.0,6866,1209,237,221,25.0,High
+POST_00248,TikTok,Short Video,Fitness,Friday,10,14622,138,3,38,0,0,5.966,7863,1742,135,134,25.0,High
+POST_00249,TikTok,Short Video,Education,Wednesday,1,7592,59,2,13,1,0,2.87,1912,216,41,0,13.397,High
+POST_00250,TikTok,Short Video,Education,Sunday,4,26101,47,4,57,0,0,2.155,13161,1205,226,204,12.662,High
+POST_00251,YouTube,Long Video,Entertainment,Thursday,16,20428,181,2,692,0,0,5.508,3257,250,32,65,10.516,High
+POST_00252,X,Image,Business,Tuesday,4,12659,126,4,0,1,0,4.202,6422,115,21,26,2.754,Medium
+POST_00253,TikTok,Long Video,Fitness,Sunday,6,20486,11,4,552,0,0,3.366,11932,915,96,253,10.564,High
+POST_00254,Instagram,Story,Fitness,Sunday,13,17161,110,4,0,0,0,4.117,10178,1013,203,189,14.18,High
+POST_00255,Instagram,Carousel,Fitness,Monday,6,5221,110,3,0,1,0,3.008,764,107,21,0,15.511,High
+POST_00256,Facebook,Image,Food,Sunday,3,2113,68,3,0,0,0,3.992,1168,65,11,20,9.149,High
+POST_00257,Facebook,Image,Lifestyle,Sunday,14,12337,66,6,0,1,0,4.771,1760,232,47,0,14.606,High
+POST_00258,Instagram,Carousel,Technology,Saturday,16,13989,19,3,0,0,0,3.865,4933,257,42,75,7.485,High
+POST_00259,Instagram,Story,Food,Tuesday,17,24112,282,6,0,0,0,3.755,11309,1064,205,0,10.871,High
+POST_00260,YouTube,Short Video,Business,Friday,22,3176,70,3,63,1,1,6.884,1526,278,55,31,25.0,High
+POST_00261,Instagram,Short Video,Business,Thursday,2,3273,106,2,45,1,0,1.329,895,15,1,7,2.661,Medium
+POST_00262,Facebook,Short Video,Fitness,Friday,10,12834,73,2,11,0,0,2.063,6029,264,53,0,4.807,Medium
+POST_00263,TikTok,Short Video,Travel,Friday,5,7546,47,4,8,1,0,3.247,3446,346,80,48,14.256,High
+POST_00264,Instagram,Carousel,Travel,Friday,21,1229,145,5,0,0,1,2.142,683,64,7,4,10.367,High
+POST_00265,X,Image,Fitness,Thursday,12,11791,92,2,0,0,0,2.574,4494,135,25,3,3.603,Medium
+POST_00266,Instagram,Short Video,Travel,Friday,2,1271,70,4,19,1,0,6.497,612,148,14,8,25.0,High
+POST_00267,Instagram,Carousel,Education,Thursday,16,3148,105,5,0,0,1,2.948,1316,180,13,20,14.835,High
+POST_00268,Instagram,Image,Education,Monday,1,31309,78,3,0,0,0,1.17,3731,20,2,6,1.311,Low
+POST_00269,Instagram,Short Video,Technology,Monday,6,50255,239,3,45,1,0,2.535,19415,1169,181,185,7.947,High
+POST_00270,Instagram,Image,Education,Sunday,17,2402,142,6,0,0,1,3.304,1596,204,16,29,15.63,High
+POST_00271,Instagram,Story,Lifestyle,Sunday,12,5829,117,4,0,1,1,3.271,1971,367,39,88,25.0,High
+POST_00272,Instagram,Image,Entertainment,Friday,18,8455,21,2,0,1,0,4.345,1354,272,60,13,25.0,High
+POST_00273,Instagram,Image,Business,Tuesday,13,48109,120,1,0,0,0,4.154,28853,2407,394,508,11.036,High
+POST_00274,YouTube,Long Video,Fitness,Saturday,20,4949,118,2,1619,0,0,2.965,2832,173,33,7,6.822,High
+POST_00275,Facebook,Short Video,Education,Tuesday,13,5029,36,2,31,1,0,1.66,2175,110,12,26,6.572,High
+POST_00276,TikTok,Short Video,Food,Wednesday,1,38128,21,2,25,1,0,2.511,20145,2453,250,848,17.189,High
+POST_00277,TikTok,Short Video,Fitness,Wednesday,1,5570,138,3,16,0,0,2.272,3521,352,62,0,11.533,High
+POST_00278,TikTok,Image,Lifestyle,Monday,18,16683,149,1,0,0,0,2.736,6747,717,86,42,12.739,High
+POST_00279,X,Text,Business,Saturday,0,1849,51,1,0,0,0,4.68,405,6,1,2,2.213,Medium
+POST_00280,X,Text,Business,Thursday,9,6827,49,4,0,1,1,3.996,4093,234,59,39,8.226,High
+POST_00281,Instagram,Carousel,Business,Wednesday,0,1541,91,1,0,1,1,5.035,1250,200,23,20,19.672,High
+POST_00282,Instagram,Image,Education,Thursday,7,2820,59,2,0,1,0,2.591,1334,73,11,18,7.117,High
+POST_00283,Instagram,Short Video,Technology,Monday,14,18754,20,8,83,0,0,7.336,1780,357,60,29,25.0,High
+POST_00284,Instagram,Image,Travel,Thursday,4,7708,36,3,0,1,0,4.633,4646,293,24,34,7.522,High
+POST_00285,YouTube,Long Video,Technology,Thursday,11,5889,103,4,1651,0,0,3.404,3001,243,48,40,10.459,High
+POST_00286,TikTok,Short Video,Technology,Wednesday,23,3832,38,2,80,0,0,4.459,1184,206,31,43,25.0,High
+POST_00287,Instagram,Story,Lifestyle,Saturday,1,6498,154,5,0,0,0,2.207,4177,218,25,72,7.503,High
+POST_00288,TikTok,Short Video,Technology,Tuesday,1,10950,117,7,39,0,0,1.003,5380,101,15,20,2.58,Medium
+POST_00289,YouTube,Long Video,Fitness,Monday,6,21653,106,2,914,0,0,2.292,11920,881,127,94,8.945,High
+POST_00290,Instagram,Carousel,Education,Thursday,19,586,90,3,0,0,0,4.827,361,46,9,11,21.127,High
+POST_00291,Facebook,Image,Travel,Sunday,9,3527,46,6,0,0,1,3.344,488,29,5,0,6.736,High
+POST_00292,Instagram,Short Video,Fitness,Wednesday,15,9500,128,1,51,1,0,2.968,4953,572,105,17,13.552,High
+POST_00293,X,Image,Entertainment,Monday,0,7340,45,8,0,0,0,2.007,2203,38,5,11,2.767,Medium
+POST_00294,Instagram,Short Video,Travel,Sunday,17,12129,160,4,38,0,0,1.091,6978,191,43,10,3.826,Medium
+POST_00295,X,Text,Food,Thursday,1,10588,215,7,0,0,1,7.006,8304,866,177,100,13.708,High
+POST_00296,X,Image,Lifestyle,Tuesday,17,5973,92,5,0,0,0,2.854,3298,110,9,27,4.103,Medium
+POST_00297,X,Short Video,Technology,Friday,3,4784,197,3,15,0,0,2.527,2507,168,15,30,8.018,High
+POST_00298,Facebook,Short Video,Food,Wednesday,20,6339,36,3,90,1,0,2.212,3377,308,37,94,12.991,High
+POST_00299,Facebook,Carousel,Entertainment,Sunday,7,25558,118,13,0,0,0,6.38,6364,1122,108,323,25.0,High
+POST_00300,YouTube,Long Video,Food,Wednesday,4,3897,82,7,738,0,0,5.196,1214,102,17,26,13.078,High
+POST_00301,Facebook,Long Video,Fitness,Thursday,8,7609,139,3,654,1,1,1.88,1495,40,5,11,4.424,Medium
+POST_00302,Instagram,Story,Lifestyle,Thursday,0,9733,12,2,0,0,0,6.072,5386,333,72,6,8.433,High
+POST_00303,YouTube,Short Video,Technology,Tuesday,3,38574,134,4,16,1,0,2.955,17289,3771,500,19,24.565,High
+POST_00304,TikTok,Short Video,Food,Thursday,14,6001,49,2,34,0,0,2.287,2575,409,43,54,19.246,High
+POST_00305,X,Image,Food,Monday,7,21137,85,7,0,1,0,2.723,4655,132,26,0,3.294,Medium
+POST_00306,TikTok,Short Video,Technology,Friday,8,27777,279,3,88,0,0,2.08,11959,1957,299,205,20.496,High
+POST_00307,TikTok,Long Video,Business,Saturday,19,7602,120,4,1656,0,0,1.548,2577,232,21,62,12.115,High
+POST_00308,YouTube,Long Video,Business,Sunday,2,6563,110,3,1337,1,1,4.904,5735,489,39,45,9.699,High
+POST_00309,Instagram,Image,Technology,Wednesday,9,5831,104,2,0,0,0,2.834,3335,95,19,24,4.457,Medium
+POST_00310,Instagram,Short Video,Fitness,Tuesday,4,6274,171,4,20,1,0,4.493,2382,426,72,111,23.979,High
+POST_00311,TikTok,Short Video,Travel,Thursday,11,19038,143,1,38,0,1,3.748,13899,2490,386,0,21.079,High
+POST_00312,TikTok,Short Video,Education,Friday,7,10208,104,4,88,0,0,4.327,1773,309,61,12,22.422,High
+POST_00313,Instagram,Short Video,Food,Sunday,1,10252,96,3,46,1,0,1.039,1412,120,19,0,8.5,High
+POST_00314,TikTok,Long Video,Travel,Monday,1,2630,91,2,758,1,1,1.987,1560,81,18,17,7.626,High
+POST_00315,TikTok,Long Video,Education,Tuesday,20,3079,79,2,688,0,0,4.377,1521,315,56,8,24.361,High
+POST_00316,TikTok,Short Video,Lifestyle,Tuesday,1,69109,30,5,42,0,0,1.587,7618,697,135,127,12.757,High
+POST_00317,TikTok,Short Video,Travel,Tuesday,18,6782,118,3,82,1,1,3.929,1781,342,34,81,25.0,High
+POST_00318,Facebook,Text,Business,Thursday,21,3733,53,5,0,1,0,1.489,1441,24,3,1,2.17,Medium
+POST_00319,Instagram,Image,Business,Sunday,11,33897,72,4,0,1,0,3.229,3925,195,28,33,6.714,High
+POST_00320,X,Text,Food,Monday,7,10740,149,4,0,1,0,7.757,3455,507,77,39,17.646,High
+POST_00321,X,Text,Education,Saturday,18,14445,80,6,0,0,0,4.9,5124,208,25,10,4.532,Medium
+POST_00322,TikTok,Short Video,Education,Friday,23,7058,76,6,76,1,0,1.156,4273,322,50,5,8.506,High
+POST_00323,TikTok,Long Video,Travel,Friday,2,5891,92,5,1150,0,0,5.103,1531,226,35,71,20.813,High
+POST_00324,YouTube,Long Video,Fitness,Friday,23,6839,65,1,1263,0,0,8.718,1204,208,37,48,25.0,High
+POST_00325,X,Image,Entertainment,Monday,22,2032,276,3,0,1,1,14.902,231,59,7,3,25.0,High
+POST_00326,YouTube,Short Video,Entertainment,Saturday,3,7421,252,4,33,0,0,4.156,1108,145,30,9,16.795,High
+POST_00327,Facebook,Carousel,Entertainment,Tuesday,1,10894,248,3,0,0,0,1.511,5534,89,12,14,2.338,Medium
+POST_00328,YouTube,Long Video,Business,Thursday,17,51558,104,6,611,1,0,4.064,17200,1404,299,323,11.786,High
+POST_00329,YouTube,Short Video,Travel,Friday,1,8830,51,0,30,0,0,7.698,1706,274,53,73,21.295,High
+POST_00330,Instagram,Carousel,Business,Friday,14,785,152,5,0,0,0,2.887,480,21,2,2,6.698,High
+POST_00331,Facebook,Carousel,Education,Wednesday,1,7376,65,4,0,0,0,5.679,3901,262,53,24,8.341,High
+POST_00332,Instagram,Image,Fitness,Wednesday,16,125430,160,3,0,1,0,2.017,18210,859,175,0,5.801,High
+POST_00333,Facebook,Short Video,Business,Thursday,5,19271,49,2,17,0,1,3.927,6069,289,60,51,6.994,High
+POST_00334,X,Image,Food,Monday,2,3601,109,9,0,0,0,0.814,2031,13,3,3,0.839,Low
+POST_00335,Instagram,Image,Travel,Saturday,1,14634,175,2,0,0,0,1.897,6946,380,54,47,6.802,High
+POST_00336,YouTube,Long Video,Food,Monday,4,3858,68,3,1506,0,1,3.189,3223,301,59,0,11.014,High
+POST_00337,Instagram,Short Video,Education,Thursday,12,2092,68,8,27,1,0,2.62,258,39,8,7,25.0,High
+POST_00338,Facebook,Long Video,Technology,Friday,1,5719,23,1,1326,0,0,1.565,2985,51,10,8,2.308,Medium
+POST_00339,Instagram,Short Video,Lifestyle,Monday,19,8879,50,4,7,1,0,2.431,1097,130,26,9,16.0,High
+POST_00340,X,Text,Education,Sunday,14,1246,102,7,0,0,0,3.836,338,15,3,4,6.273,High
+POST_00341,Instagram,Short Video,Food,Wednesday,7,2567,113,10,15,0,0,3.052,1303,240,38,40,25.0,High
+POST_00342,X,Text,Business,Monday,23,8187,125,3,0,0,1,3.309,5363,329,52,35,7.749,High
+POST_00343,Facebook,Carousel,Education,Friday,15,5387,15,6,0,1,0,4.786,437,55,8,18,19.167,High
+POST_00344,YouTube,Short Video,Lifestyle,Thursday,16,12025,66,1,30,1,1,2.65,3167,299,51,21,11.249,High
+POST_00345,Facebook,Short Video,Fitness,Friday,4,2405,26,3,8,0,0,6.758,1259,118,17,37,14.722,High
+POST_00346,Facebook,Carousel,Lifestyle,Saturday,17,16549,99,4,0,0,0,1.857,2513,121,22,5,7.366,High
+POST_00347,X,Text,Education,Thursday,13,2480,19,7,0,0,0,9.24,659,141,20,7,25.0,High
+POST_00348,Instagram,Short Video,Entertainment,Saturday,23,41887,33,7,15,0,0,5.902,7741,1631,196,97,25.0,High
+POST_00349,YouTube,Short Video,Education,Wednesday,11,1457,141,4,21,0,0,2.631,209,17,1,4,13.124,High
+POST_00350,Instagram,Carousel,Business,Thursday,16,2717,55,6,0,1,0,2.729,1513,147,16,23,12.665,High
+POST_00351,YouTube,Short Video,Technology,Tuesday,8,12300,198,3,40,0,0,3.585,1414,149,27,25,15.225,High
+POST_00352,Instagram,Carousel,Business,Friday,0,42797,127,1,0,1,0,4.448,16500,1623,221,278,12.304,High
+POST_00353,YouTube,Short Video,Fitness,Tuesday,3,11103,69,3,16,1,0,5.842,5271,882,80,304,25.0,High
+POST_00354,YouTube,Short Video,Lifestyle,Friday,20,14226,156,4,40,0,0,1.531,1605,95,11,10,7.064,High
+POST_00355,TikTok,Short Video,Business,Saturday,17,8246,73,4,52,0,0,4.07,3636,451,68,140,18.928,High
+POST_00356,YouTube,Long Video,Lifestyle,Sunday,8,2903,136,7,1519,1,0,0.999,785,12,1,4,2.706,Medium
+POST_00357,Facebook,Text,Entertainment,Sunday,16,4963,48,6,0,0,0,2.903,2755,94,11,16,4.309,Medium
+POST_00358,Facebook,Short Video,Travel,Monday,0,2411,162,5,36,0,0,7.119,1289,129,23,8,12.064,High
+POST_00359,TikTok,Short Video,Food,Monday,0,2255,21,8,27,1,0,1.467,1200,114,22,17,12.954,High
+POST_00360,YouTube,Long Video,Technology,Sunday,12,12109,33,4,1512,0,0,1.328,3720,101,23,8,3.622,Medium
+POST_00361,X,Short Video,Food,Wednesday,14,2635,38,1,32,1,0,3.613,1446,193,18,32,17.325,High
+POST_00362,Instagram,Short Video,Business,Monday,22,11154,52,3,22,0,0,6.864,4897,1089,122,49,25.0,High
+POST_00363,Instagram,Story,Lifestyle,Wednesday,18,2204,105,4,0,0,1,3.827,880,166,14,24,25.0,High
+POST_00364,Instagram,Story,Business,Saturday,6,10898,83,4,0,0,0,1.123,1372,46,8,9,4.643,Medium
+POST_00365,YouTube,Long Video,Business,Wednesday,19,4970,137,6,1785,0,0,1.268,586,5,0,2,2.346,Medium
+POST_00366,TikTok,Short Video,Travel,Monday,11,33077,177,2,16,0,0,3.377,7386,597,73,195,11.686,High
+POST_00367,Facebook,Image,Entertainment,Saturday,19,11200,18,6,0,0,0,1.673,2808,108,19,21,6.23,High
+POST_00368,YouTube,Short Video,Education,Tuesday,4,27883,191,2,73,0,0,3.45,16972,2209,324,616,18.39,High
+POST_00369,TikTok,Short Video,Education,Wednesday,0,3806,72,2,88,0,0,3.564,2473,466,75,65,25.0,High
+POST_00370,X,Text,Fitness,Monday,1,8571,245,6,0,0,0,2.444,1387,45,7,4,4.005,Medium
+POST_00371,Facebook,Carousel,Technology,Friday,23,3037,46,2,0,0,0,8.682,1874,112,22,9,7.681,High
+POST_00372,Instagram,Short Video,Business,Thursday,1,5358,13,9,46,0,0,4.428,2586,379,48,24,17.896,High
+POST_00373,TikTok,Short Video,Education,Sunday,22,6234,128,3,29,0,0,6.231,2270,459,54,66,25.0,High
+POST_00374,TikTok,Long Video,Lifestyle,Wednesday,17,3921,123,3,351,0,0,5.309,2447,453,77,94,25.0,High
+POST_00375,Instagram,Image,Lifestyle,Tuesday,3,2403,34,3,0,0,1,2.946,1579,242,21,45,19.616,High
+POST_00376,Instagram,Image,Business,Tuesday,20,1971,37,6,0,0,1,2.875,1113,139,10,20,15.383,High
+POST_00377,X,Image,Education,Tuesday,3,780,144,1,0,0,0,2.717,155,3,0,1,3.37,Medium
+POST_00378,TikTok,Long Video,Technology,Thursday,3,2817,108,0,1378,1,0,4.654,617,58,6,12,13.536,High
+POST_00379,TikTok,Image,Travel,Monday,13,15176,67,7,0,1,0,2.238,9098,874,67,172,12.277,High
+POST_00380,Facebook,Text,Business,Wednesday,6,1638,116,5,0,0,0,8.264,331,17,3,2,8.19,High
+POST_00381,YouTube,Long Video,Business,Saturday,6,2062,101,3,1053,1,0,2.123,202,14,3,3,11.362,High
+POST_00382,X,Text,Fitness,Saturday,4,48576,40,3,0,0,0,3.601,11257,199,18,17,2.064,Medium
+POST_00383,Facebook,Carousel,Entertainment,Friday,14,4287,151,5,0,0,0,2.821,1517,107,19,23,10.14,High
+POST_00384,TikTok,Short Video,Education,Sunday,0,11170,132,4,11,0,0,2.497,3325,385,99,77,17.014,High
+POST_00385,TikTok,Short Video,Technology,Saturday,5,15402,85,7,78,0,0,10.569,9447,1954,217,189,25.0,High
+POST_00386,X,Short Video,Technology,Friday,13,15717,144,5,22,0,0,2.513,5007,212,37,2,4.565,Medium
+POST_00387,Facebook,Carousel,Food,Sunday,11,1768,264,8,0,0,0,2.706,1037,46,4,8,4.373,Medium
+POST_00388,X,Image,Education,Monday,16,6431,36,4,0,1,1,2.221,3637,100,22,8,3.73,Medium
+POST_00389,Instagram,Carousel,Fitness,Saturday,5,1606,69,2,0,0,0,3.273,608,46,3,4,11.057,High
+POST_00390,X,Text,Technology,Wednesday,15,93556,71,6,0,0,0,3.027,16027,494,62,100,4.219,Medium
+POST_00391,YouTube,Short Video,Education,Saturday,18,1644,141,3,78,0,0,1.729,385,26,6,3,6.678,High
+POST_00392,Instagram,Image,Business,Sunday,9,2841,52,4,0,0,0,2.534,1631,87,15,8,7.128,High
+POST_00393,YouTube,Long Video,Lifestyle,Thursday,6,2862,136,4,879,0,0,4.475,1501,76,8,16,7.182,High
+POST_00394,Facebook,Carousel,Entertainment,Monday,13,1814,57,4,0,0,0,5.629,607,106,20,9,25.0,High
+POST_00395,Instagram,Short Video,Technology,Wednesday,13,31338,33,5,76,0,0,3.243,18744,903,173,0,5.345,High
+POST_00396,TikTok,Short Video,Business,Wednesday,2,91349,88,3,67,0,0,3.306,49961,9155,1490,1940,25.0,High
+POST_00397,Facebook,Image,Travel,Sunday,13,5035,56,5,0,0,1,2.624,978,48,5,16,7.583,High
+POST_00398,Instagram,Image,Education,Sunday,3,2163,94,3,0,1,1,2.427,1242,26,3,6,3.369,Medium
+POST_00399,TikTok,Long Video,Fitness,Thursday,13,865,111,2,148,1,0,1.93,463,37,8,3,10.584,High
+POST_00400,TikTok,Short Video,Fitness,Sunday,22,6347,20,3,15,0,0,1.359,3432,194,18,24,6.284,High
+POST_00401,TikTok,Long Video,Business,Thursday,12,5905,61,6,1426,0,0,2.175,779,39,4,2,6.672,High
+POST_00402,X,Text,Business,Wednesday,18,4224,88,1,0,1,1,5.261,1186,79,7,11,9.422,High
+POST_00403,Facebook,Long Video,Fitness,Saturday,7,10110,144,0,251,1,0,2.534,3189,144,11,10,4.898,Medium
+POST_00404,Instagram,Short Video,Fitness,Friday,22,12030,132,6,55,0,0,2.645,2687,160,26,34,8.228,High
+POST_00405,X,Text,Lifestyle,Thursday,19,11193,43,1,0,0,1,2.617,2147,56,8,14,3.242,Medium
+POST_00406,X,Text,Business,Thursday,22,5906,74,6,0,1,0,6.345,2589,194,17,52,11.056,High
+POST_00407,Instagram,Story,Business,Friday,17,2692,115,2,0,0,0,1.92,994,72,6,8,9.236,High
+POST_00408,Facebook,Image,Business,Saturday,15,15769,70,6,0,1,0,3.727,2654,100,9,31,5.332,High
+POST_00409,Instagram,Carousel,Business,Thursday,12,8205,47,6,0,0,0,3.082,3398,220,19,67,9.772,High
+POST_00410,X,Text,Fitness,Monday,22,19699,81,3,0,0,0,3.322,2272,47,5,10,2.421,Medium
+POST_00411,YouTube,Short Video,Business,Monday,20,17855,107,3,19,1,0,3.66,5326,633,127,92,14.887,High
+POST_00412,YouTube,Long Video,Travel,Tuesday,10,1955,40,6,1080,1,0,3.302,1039,94,7,16,11.563,High
+POST_00413,Instagram,Short Video,Entertainment,Thursday,2,1930,123,6,38,0,1,4.95,1530,332,37,18,25.0,High
+POST_00414,X,Text,Education,Friday,0,3806,92,9,0,1,0,3.149,836,25,4,7,5.421,High
+POST_00415,Instagram,Short Video,Business,Saturday,5,2817,126,4,52,1,0,8.352,1605,288,54,24,25.0,High
+POST_00416,Instagram,Image,Technology,Tuesday,1,17244,80,6,0,0,0,3.279,10144,299,60,70,4.154,Medium
+POST_00417,Instagram,Image,Travel,Saturday,5,11513,239,2,0,1,0,1.254,4903,238,58,33,6.345,High
+POST_00418,Facebook,Short Video,Lifestyle,Friday,2,24323,106,4,27,0,0,4.546,15562,1247,156,279,11.363,High
+POST_00419,Instagram,Story,Lifestyle,Monday,23,12045,136,5,0,0,0,3.97,2653,472,35,87,21.564,High
+POST_00420,X,Text,Travel,Wednesday,2,9983,123,6,0,1,0,3.258,1191,57,4,12,5.644,High
+POST_00421,YouTube,Short Video,Food,Wednesday,15,26895,73,6,79,0,1,2.774,20360,4085,362,605,25.0,High
+POST_00422,Instagram,Short Video,Fitness,Sunday,8,12961,100,4,38,1,0,1.0,4663,353,74,0,9.352,High
+POST_00423,Instagram,Short Video,Lifestyle,Sunday,4,8674,53,4,57,0,0,1.097,2406,117,21,26,5.903,High
+POST_00424,Instagram,Image,Food,Saturday,16,35612,228,4,0,0,0,7.919,3970,500,94,10,15.105,High
+POST_00425,YouTube,Short Video,Technology,Thursday,23,9092,114,3,16,0,0,2.319,1062,55,12,1,5.398,High
+POST_00426,Facebook,Long Video,Business,Thursday,18,5976,44,3,103,0,1,5.443,1062,118,27,25,18.157,High
+POST_00427,Instagram,Carousel,Technology,Wednesday,23,3505,196,2,0,1,0,1.325,647,20,3,5,5.281,High
+POST_00428,X,Text,Education,Saturday,14,16367,76,3,0,0,0,1.799,10362,113,27,25,1.671,Low
+POST_00429,Instagram,Image,Fitness,Monday,16,27918,149,8,0,0,0,4.648,6711,670,107,183,14.41,High
+POST_00430,Facebook,Carousel,Business,Tuesday,3,7703,19,8,0,0,0,3.025,4203,147,14,39,5.171,High
+POST_00431,X,Text,Business,Monday,20,29968,173,1,0,0,0,4.301,2729,118,20,25,6.703,High
+POST_00432,Facebook,Text,Education,Thursday,17,1130,111,3,0,1,0,3.176,297,8,1,1,5.124,High
+POST_00433,Facebook,Short Video,Business,Wednesday,6,7665,41,5,82,1,0,2.855,4572,469,84,0,12.244,High
+POST_00434,Facebook,Long Video,Lifestyle,Tuesday,8,7784,110,2,935,0,0,2.201,1443,57,7,8,5.435,High
+POST_00435,Instagram,Story,Travel,Wednesday,14,3916,214,4,0,0,0,1.659,947,66,13,2,7.894,High
+POST_00436,Instagram,Carousel,Fitness,Sunday,0,87891,54,4,0,1,0,6.922,48437,10764,1415,55,25.0,High
+POST_00437,Instagram,Carousel,Business,Thursday,19,7584,53,2,0,0,0,7.577,1131,214,39,28,23.105,High
+POST_00438,TikTok,Long Video,Lifestyle,Saturday,6,5389,72,3,1686,0,0,1.807,594,31,3,6,7.773,High
+POST_00439,Facebook,Image,Food,Sunday,1,8316,88,2,0,0,0,1.744,5244,281,29,38,6.93,High
+POST_00440,YouTube,Long Video,Fitness,Sunday,7,1093,155,7,1211,0,0,2.643,339,25,2,2,7.789,High
+POST_00441,X,Image,Entertainment,Wednesday,20,3790,115,5,0,0,0,3.859,1724,175,34,0,11.919,High
+POST_00442,Instagram,Image,Travel,Sunday,6,21660,72,5,0,0,0,2.895,3302,139,36,27,5.861,High
+POST_00443,Facebook,Short Video,Entertainment,Sunday,12,4320,103,3,59,1,0,4.212,887,80,8,10,11.747,High
+POST_00444,Instagram,Image,Travel,Sunday,19,3537,236,1,0,0,0,3.114,1210,55,6,15,6.572,High
+POST_00445,Instagram,Image,Entertainment,Wednesday,0,30017,129,5,0,1,0,3.004,13953,1133,106,312,11.023,High
+POST_00446,Facebook,Short Video,Entertainment,Tuesday,18,30953,78,3,27,0,0,12.065,7650,1395,266,107,25.0,High
+POST_00447,X,Text,Technology,Friday,6,13588,71,2,0,0,0,2.397,7938,167,25,13,2.932,Medium
+POST_00448,YouTube,Long Video,Entertainment,Sunday,16,5140,98,4,535,1,0,7.886,2699,457,81,104,25.0,High
+POST_00449,Instagram,Story,Education,Sunday,4,6377,154,2,0,0,0,7.092,2515,439,38,114,23.273,High
+POST_00450,YouTube,Long Video,Education,Thursday,3,3625,48,2,1671,0,0,4.222,1238,74,6,10,7.132,High
+POST_00451,Instagram,Carousel,Lifestyle,Tuesday,18,2996,140,2,0,0,0,1.109,1297,45,10,9,6.462,High
+POST_00452,X,Text,Technology,Wednesday,19,2851,77,6,0,1,0,3.255,1417,75,11,3,6.372,High
+POST_00453,Facebook,Image,Education,Friday,23,4367,85,5,0,0,1,2.411,925,31,3,7,4.097,Medium
+POST_00454,Instagram,Image,Entertainment,Thursday,16,2879,356,4,0,1,0,3.236,1629,193,20,30,15.826,High
+POST_00455,Instagram,Story,Food,Wednesday,11,1696,131,3,0,0,1,1.783,821,47,6,15,10.343,High
+POST_00456,Instagram,Carousel,Lifestyle,Wednesday,4,10091,57,8,0,0,0,4.851,6187,680,52,49,11.933,High
+POST_00457,X,Text,Travel,Monday,7,10245,111,2,0,0,0,5.501,6399,311,23,27,6.034,High
+POST_00458,TikTok,Long Video,Travel,Wednesday,15,44391,159,3,1639,0,0,6.09,4328,801,163,152,25.0,High
+POST_00459,Facebook,Carousel,Education,Friday,8,4153,132,8,0,1,0,2.593,1242,137,15,17,11.847,High
+POST_00460,YouTube,Short Video,Business,Tuesday,11,10895,11,5,24,0,0,1.787,4139,231,29,16,6.647,High
+POST_00461,YouTube,Short Video,Fitness,Sunday,4,11077,83,5,7,1,0,3.883,4293,592,104,145,18.972,High
+POST_00462,Instagram,Short Video,Travel,Monday,10,6286,114,4,15,0,1,8.406,4656,941,116,127,25.0,High
+POST_00463,X,Image,Technology,Friday,5,17057,108,5,0,0,0,3.324,2736,195,27,8,7.935,High
+POST_00464,TikTok,Short Video,Education,Thursday,2,17592,61,4,62,0,1,4.104,10326,2062,432,146,25.0,High
+POST_00465,YouTube,Long Video,Business,Saturday,3,11241,134,6,558,1,1,2.812,9367,1080,111,58,12.992,High
+POST_00466,Facebook,Text,Food,Sunday,12,6275,174,10,0,0,0,2.426,4066,59,13,15,2.038,Medium
+POST_00467,YouTube,Long Video,Education,Thursday,8,5667,21,5,967,0,0,4.596,485,43,4,3,10.722,High
+POST_00468,X,Text,Entertainment,Friday,2,2063,19,3,0,1,0,3.019,1308,61,5,4,5.682,High
+POST_00469,Instagram,Image,Entertainment,Friday,12,3619,110,3,0,1,1,3.995,731,133,12,43,25.0,High
+POST_00470,TikTok,Long Video,Technology,Thursday,3,4350,141,3,747,0,0,4.23,1679,139,25,18,13.066,High
+POST_00471,TikTok,Short Video,Technology,Tuesday,0,2633,54,4,29,1,0,3.874,580,106,14,13,24.261,High
+POST_00472,TikTok,Short Video,Technology,Thursday,3,12580,12,1,75,0,0,4.349,5354,1169,207,0,25.0,High
+POST_00473,Instagram,Short Video,Travel,Tuesday,10,26812,84,3,42,0,0,2.002,2710,120,12,37,5.459,High
+POST_00474,Instagram,Image,Business,Thursday,22,3268,109,6,0,0,1,1.936,952,29,5,5,4.329,Medium
+POST_00475,Instagram,Short Video,Fitness,Friday,5,10758,68,2,71,1,0,3.126,2703,399,29,48,17.323,High
+POST_00476,TikTok,Long Video,Fitness,Tuesday,6,2880,161,2,841,0,0,3.167,1733,320,37,64,24.952,High
+POST_00477,TikTok,Long Video,Travel,Tuesday,5,5973,105,1,951,1,0,2.401,2464,289,48,25,15.684,High
+POST_00478,YouTube,Long Video,Lifestyle,Saturday,8,4062,50,6,937,1,0,3.654,1964,286,24,52,19.822,High
+POST_00479,YouTube,Long Video,Food,Wednesday,17,14792,54,4,864,0,0,5.273,6883,996,119,24,16.383,High
+POST_00480,TikTok,Short Video,Fitness,Tuesday,7,4110,85,2,48,0,0,6.149,1247,209,37,50,25.0,High
+POST_00481,TikTok,Long Video,Lifestyle,Friday,15,22284,65,1,281,1,0,6.958,1960,232,39,0,14.287,High
+POST_00482,Instagram,Short Video,Business,Saturday,21,6337,18,4,22,0,0,1.553,893,95,17,8,14.122,High
+POST_00483,YouTube,Long Video,Entertainment,Saturday,22,4231,99,7,247,0,0,1.688,1444,180,16,14,13.955,High
+POST_00484,TikTok,Short Video,Education,Saturday,13,2313,55,3,78,0,0,2.729,1426,265,26,87,25.0,High
+POST_00485,Instagram,Image,Lifestyle,Sunday,17,10437,62,4,0,1,0,3.344,2314,366,47,41,18.715,High
+POST_00486,TikTok,Short Video,Travel,Friday,22,19835,36,2,34,0,1,2.807,12800,2126,222,160,19.11,High
+POST_00487,TikTok,Short Video,Lifestyle,Wednesday,18,10650,217,4,55,0,1,2.361,7924,1452,167,115,22.265,High
+POST_00488,Instagram,Short Video,Entertainment,Sunday,7,76026,126,3,13,0,0,2.707,45377,2955,438,941,9.766,High
+POST_00489,YouTube,Long Video,Travel,Tuesday,3,33853,251,5,1527,0,0,4.174,8371,587,82,94,8.836,High
+POST_00490,YouTube,Short Video,Entertainment,Wednesday,2,5957,68,6,40,1,0,1.54,3638,281,49,71,10.206,High
+POST_00491,Facebook,Text,Entertainment,Saturday,21,5895,131,4,0,0,1,11.612,3394,587,50,190,25.0,High
+POST_00492,YouTube,Long Video,Business,Sunday,13,12960,100,3,557,1,1,3.237,6469,1318,153,135,25.0,High
+POST_00493,YouTube,Short Video,Lifestyle,Wednesday,7,3505,51,1,54,1,0,5.704,1835,383,40,17,25.0,High
+POST_00494,TikTok,Long Video,Education,Saturday,8,26011,68,1,904,0,0,2.326,5620,184,20,25,4.374,Medium
+POST_00495,Facebook,Long Video,Technology,Sunday,6,11632,126,1,331,1,0,4.389,6318,885,195,184,19.083,High
+POST_00496,YouTube,Long Video,Fitness,Saturday,19,10471,36,2,571,1,0,3.381,4716,282,34,71,7.773,High
+POST_00497,TikTok,Short Video,Travel,Monday,14,16106,162,5,7,1,1,5.126,11646,2265,234,498,25.0,High
+POST_00498,YouTube,Long Video,Education,Friday,21,45380,94,5,774,1,1,2.869,34782,2458,565,464,9.96,High
+POST_00499,TikTok,Image,Lifestyle,Tuesday,7,9613,149,2,0,0,1,7.512,5604,1184,147,63,25.0,High
+POST_00500,TikTok,Long Video,Food,Saturday,11,7236,109,0,1024,1,0,1.408,730,17,2,6,5.288,High
+POST_00501,Facebook,Text,Fitness,Monday,2,36633,21,7,0,0,0,5.394,9147,340,72,71,4.97,Medium
+POST_00502,X,Short Video,Food,Sunday,23,21323,83,6,27,1,1,3.416,16709,1141,192,51,8.136,High
+POST_00503,X,Text,Lifestyle,Tuesday,12,5878,165,2,0,0,0,1.828,2570,68,16,13,3.931,Medium
+POST_00504,TikTok,Short Video,Travel,Wednesday,13,8145,93,5,13,0,0,9.363,4783,910,197,88,25.0,High
+POST_00505,YouTube,Long Video,Education,Tuesday,9,9851,85,3,1506,1,0,8.846,2947,338,61,33,13.748,High
+POST_00506,Facebook,Text,Travel,Saturday,6,11635,93,3,0,0,0,1.023,4278,66,7,22,2.342,Medium
+POST_00507,TikTok,Short Video,Business,Wednesday,22,2086,16,3,48,0,0,3.527,1192,213,31,26,25.0,High
+POST_00508,Facebook,Carousel,Fitness,Saturday,11,1732,176,1,0,1,1,4.717,1202,190,18,37,20.469,High
+POST_00509,TikTok,Long Video,Technology,Monday,16,3336,8,4,668,1,0,4.08,984,60,9,5,7.928,High
+POST_00510,Instagram,Carousel,Technology,Thursday,0,3087,199,3,0,1,0,7.365,286,39,9,7,18.032,High
+POST_00511,Instagram,Short Video,Technology,Sunday,6,4256,64,1,79,1,0,6.569,2476,501,40,126,25.0,High
+POST_00512,X,Text,Entertainment,Sunday,19,15286,114,3,0,1,0,3.702,8074,1100,223,33,16.385,High
+POST_00513,Instagram,Story,Entertainment,Tuesday,2,6843,15,4,0,1,0,11.196,2299,380,69,105,25.0,High
+POST_00514,Instagram,Story,Fitness,Wednesday,2,9861,140,4,0,0,0,5.357,3859,265,29,84,9.528,High
+POST_00515,TikTok,Short Video,Food,Wednesday,19,2382,125,3,44,0,0,2.638,467,89,19,13,25.0,High
+POST_00516,Instagram,Short Video,Technology,Thursday,7,5106,120,4,11,1,0,2.362,1607,70,12,18,6.696,High
+POST_00517,TikTok,Short Video,Technology,Thursday,6,14577,14,2,36,1,0,6.341,2522,402,66,117,25.0,High
+POST_00518,Facebook,Short Video,Education,Monday,13,14690,46,8,22,0,0,2.069,2938,122,16,2,4.271,Medium
+POST_00519,Instagram,Short Video,Travel,Saturday,4,3926,110,7,89,0,0,2.554,2208,153,15,31,9.087,High
+POST_00520,Facebook,Text,Business,Tuesday,1,9524,173,3,0,0,0,2.805,2729,77,7,15,3.819,Medium
+POST_00521,X,Text,Entertainment,Wednesday,0,73046,40,4,0,1,0,3.891,39765,3389,646,602,11.641,High
+POST_00522,TikTok,Short Video,Lifestyle,Saturday,1,7961,41,4,54,1,0,2.877,2787,470,114,106,25.0,High
+POST_00523,Instagram,Short Video,Fitness,Friday,3,4051,105,3,5,0,0,1.551,487,17,3,1,4.789,Medium
+POST_00524,YouTube,Long Video,Education,Wednesday,16,6810,336,4,912,0,0,6.064,1948,179,35,4,11.341,High
+POST_00525,Instagram,Carousel,Education,Sunday,7,8885,52,3,0,0,0,2.562,1512,153,28,0,10.303,High
+POST_00526,TikTok,Short Video,Business,Wednesday,1,6966,64,6,69,1,0,9.719,3311,588,54,218,25.0,High
+POST_00527,X,Text,Entertainment,Thursday,0,7852,57,1,0,0,0,3.782,4707,82,17,17,2.203,Medium
+POST_00528,X,Short Video,Food,Tuesday,11,1913,77,4,82,0,0,6.424,985,224,41,8,25.0,High
+POST_00529,Facebook,Image,Business,Tuesday,20,3094,181,6,0,0,0,4.527,1620,85,11,18,6.658,High
+POST_00530,TikTok,Short Video,Fitness,Thursday,8,6979,80,4,27,1,0,6.596,3986,599,94,173,21.629,High
+POST_00531,Facebook,Text,Lifestyle,Thursday,1,6868,356,1,0,0,0,4.379,3589,98,19,16,3.901,Medium
+POST_00532,Facebook,Image,Entertainment,Saturday,5,4599,91,0,0,0,1,3.642,2508,140,36,26,8.352,High
+POST_00533,TikTok,Long Video,Fitness,Wednesday,11,6788,193,4,684,0,0,5.838,3306,708,149,0,25.0,High
+POST_00534,YouTube,Short Video,Technology,Sunday,4,8612,68,4,14,1,0,12.559,2730,614,83,21,25.0,High
+POST_00535,Instagram,Story,Business,Friday,23,19720,30,3,0,0,0,2.759,2373,125,24,7,6.09,High
+POST_00536,Instagram,Short Video,Fitness,Monday,18,7337,80,1,89,0,0,4.955,3537,654,100,111,25.0,High
+POST_00537,YouTube,Long Video,Education,Saturday,8,12077,121,8,1705,0,1,3.191,8010,638,125,3,10.234,High
+POST_00538,Instagram,Image,Lifestyle,Friday,22,4714,46,2,0,0,1,4.227,1320,127,21,10,10.692,High
+POST_00539,Instagram,Short Video,Fitness,Wednesday,7,14358,174,3,18,1,1,3.275,12090,2087,429,0,21.137,High
+POST_00540,Facebook,Text,Fitness,Thursday,3,11798,59,5,0,1,0,0.977,1296,20,4,2,2.267,Medium
+POST_00541,X,Text,Fitness,Wednesday,22,19260,36,4,0,0,1,2.866,12987,801,91,27,6.985,High
+POST_00542,YouTube,Short Video,Entertainment,Friday,23,16538,315,3,13,1,0,5.545,10452,1971,474,227,25.0,High
+POST_00543,Facebook,Image,Entertainment,Thursday,7,14599,44,2,0,0,1,2.101,5049,140,25,10,3.379,Medium
+POST_00544,X,Short Video,Entertainment,Thursday,14,7343,58,4,74,1,0,5.31,4406,800,84,67,22.101,High
+POST_00545,Instagram,Short Video,Fitness,Tuesday,4,10352,134,4,17,0,1,3.54,7701,1558,109,148,25.0,High
+POST_00546,TikTok,Short Video,Education,Wednesday,15,23470,66,7,89,0,0,2.88,11832,2446,399,0,23.61,High
+POST_00547,TikTok,Long Video,Travel,Thursday,16,4221,37,6,556,1,0,5.266,2632,403,46,82,19.27,High
+POST_00548,Instagram,Short Video,Lifestyle,Thursday,17,4322,53,6,30,1,1,4.654,2642,569,60,66,25.0,High
+POST_00549,Facebook,Short Video,Technology,Wednesday,13,9715,262,2,14,1,0,4.033,3517,538,92,99,21.643,High
+POST_00550,TikTok,Short Video,Entertainment,Friday,16,12274,124,1,33,1,1,5.595,7707,1519,119,238,25.0,High
+POST_00551,TikTok,Short Video,Technology,Tuesday,13,3554,140,3,27,1,0,3.578,1118,212,32,52,25.0,High
+POST_00552,Instagram,Image,Travel,Thursday,19,7519,101,6,0,1,0,1.295,1993,111,22,13,7.764,High
+POST_00553,Instagram,Story,Entertainment,Monday,4,7376,113,5,0,0,0,2.599,935,38,2,5,4.752,Medium
+POST_00554,X,Image,Food,Thursday,11,884,62,5,0,0,0,1.186,261,16,2,1,6.506,High
+POST_00555,Instagram,Carousel,Education,Saturday,9,6505,93,5,0,1,0,4.594,3498,413,41,76,14.633,High
+POST_00556,Instagram,Short Video,Entertainment,Saturday,12,6923,13,6,72,0,0,5.239,4284,773,178,139,25.0,High
+POST_00557,Instagram,Image,Fitness,Friday,3,6902,158,3,0,1,0,5.371,4388,515,72,92,15.533,High
+POST_00558,TikTok,Image,Food,Saturday,7,33386,62,3,0,0,0,4.188,6601,752,167,144,15.603,High
+POST_00559,YouTube,Long Video,Food,Monday,22,2402,32,6,1658,0,0,5.449,974,104,22,25,14.012,High
+POST_00560,TikTok,Long Video,Entertainment,Wednesday,2,3552,97,5,177,0,1,1.344,1957,237,45,0,13.471,High
+POST_00561,Instagram,Carousel,Entertainment,Friday,15,594,73,4,0,1,1,3.016,144,18,2,4,20.85,High
+POST_00562,Instagram,Image,Technology,Saturday,15,5009,154,5,0,0,0,1.47,2061,34,5,10,2.92,Medium
+POST_00563,X,Text,Entertainment,Friday,11,5455,81,2,0,1,0,2.628,1564,161,12,23,12.771,High
+POST_00564,YouTube,Short Video,Business,Saturday,0,4865,53,2,15,0,0,7.784,3002,523,93,137,25.0,High
+POST_00565,YouTube,Short Video,Lifestyle,Tuesday,0,24530,83,4,39,0,0,5.838,5530,636,102,101,14.542,High
+POST_00566,YouTube,Short Video,Fitness,Tuesday,6,19160,207,6,50,1,1,4.606,14379,1500,274,293,13.937,High
+POST_00567,Facebook,Text,Entertainment,Monday,2,8759,158,1,0,0,0,2.896,5178,418,44,125,10.822,High
+POST_00568,Instagram,Image,Fitness,Friday,2,5593,124,4,0,1,0,1.853,2793,110,17,13,4.542,Medium
+POST_00569,TikTok,Short Video,Entertainment,Friday,3,22610,162,0,56,0,0,3.547,4575,957,133,72,25.0,High
+POST_00570,YouTube,Long Video,Lifestyle,Tuesday,4,7944,130,2,1354,0,0,5.895,1814,231,39,28,17.085,High
+POST_00571,TikTok,Short Video,Technology,Saturday,20,3575,42,3,27,0,0,4.009,2264,451,74,10,25.0,High
+POST_00572,X,Image,Education,Saturday,15,1456,141,4,0,1,0,1.338,179,4,0,1,2.927,Medium
+POST_00573,TikTok,Short Video,Education,Wednesday,0,5211,175,4,14,0,0,3.39,764,150,21,8,25.0,High
+POST_00574,Facebook,Text,Travel,Tuesday,15,17234,181,5,0,0,0,1.117,10991,67,8,2,0.61,Low
+POST_00575,X,Image,Lifestyle,Saturday,3,78947,35,4,0,1,0,4.98,41275,2940,515,0,8.145,High
+POST_00576,TikTok,Short Video,Food,Friday,10,8618,58,3,10,1,0,2.186,4355,528,97,0,14.589,High
+POST_00577,X,Image,Fitness,Tuesday,0,3769,51,4,0,1,0,1.633,645,12,1,4,2.712,Medium
+POST_00578,YouTube,Long Video,Food,Tuesday,2,2477,67,1,1539,1,0,5.018,888,125,15,35,17.938,High
+POST_00579,X,Text,Fitness,Thursday,3,14072,115,3,0,0,0,4.353,7869,296,50,13,4.745,Medium
+POST_00580,TikTok,Short Video,Business,Thursday,10,1387,95,3,37,0,0,3.636,370,72,12,1,21.847,High
+POST_00581,TikTok,Short Video,Fitness,Tuesday,11,14049,95,0,29,1,0,10.682,2667,591,42,67,25.0,High
+POST_00582,YouTube,Long Video,Lifestyle,Sunday,8,18355,27,6,264,1,0,4.538,1582,107,14,12,7.767,High
+POST_00583,Instagram,Carousel,Lifestyle,Wednesday,14,12534,56,5,0,1,0,2.244,5450,410,47,28,10.094,High
+POST_00584,TikTok,Short Video,Travel,Wednesday,17,6505,189,2,68,1,0,4.258,1609,332,61,12,25.0,High
+POST_00585,X,Text,Technology,Monday,17,14256,174,1,0,1,0,2.734,8158,215,20,30,3.389,Medium
+POST_00586,YouTube,Long Video,Food,Sunday,13,9613,80,4,1034,0,0,6.423,2322,381,84,88,25.0,High
+POST_00587,Instagram,Carousel,Travel,Tuesday,13,3721,141,4,0,0,0,3.735,619,119,21,15,25.0,High
+POST_00588,TikTok,Short Video,Entertainment,Sunday,11,51555,108,5,17,1,1,3.944,43670,7492,1758,1660,25.0,High
+POST_00589,Instagram,Story,Entertainment,Thursday,5,5700,152,4,0,0,0,1.448,3590,171,43,31,6.845,High
+POST_00590,Instagram,Image,Education,Sunday,11,17601,145,4,0,0,0,3.31,8280,627,93,76,9.72,High
+POST_00591,X,Image,Education,Tuesday,0,721,85,2,0,0,1,3.102,592,50,10,13,10.756,High
+POST_00592,TikTok,Short Video,Food,Tuesday,23,29041,124,4,79,1,0,1.822,5002,1012,170,0,24.065,High
+POST_00593,TikTok,Short Video,Food,Saturday,8,35198,113,1,14,1,0,2.833,12051,2330,488,209,25.0,High
+POST_00594,YouTube,Long Video,Lifestyle,Saturday,18,8348,87,8,1522,1,0,4.067,1639,181,27,13,12.727,High
+POST_00595,Instagram,Story,Entertainment,Thursday,22,14168,74,5,0,0,0,3.192,4999,349,35,108,9.493,High
+POST_00596,Instagram,Carousel,Fitness,Monday,11,14164,240,3,0,0,0,1.472,7520,496,103,0,7.6,High
+POST_00597,Facebook,Short Video,Education,Sunday,20,4260,87,6,37,0,1,2.754,3229,518,44,107,21.104,High
+POST_00598,YouTube,Short Video,Fitness,Wednesday,11,14004,136,3,87,1,0,2.474,1153,105,23,5,12.52,High
+POST_00599,X,Image,Business,Sunday,3,3609,228,6,0,0,0,3.559,1089,38,4,5,3.856,Medium
+POST_00600,YouTube,Long Video,Technology,Sunday,0,4408,124,4,1042,1,1,3.354,3847,776,117,93,25.0,High
+POST_00601,TikTok,Short Video,Technology,Saturday,3,25007,120,3,38,0,0,2.552,10400,717,157,31,8.422,High
+POST_00602,Facebook,Short Video,Food,Friday,22,21475,87,6,51,1,0,2.497,5343,269,45,11,5.813,High
+POST_00603,X,Text,Education,Friday,11,3998,114,5,0,0,0,3.321,1206,43,6,3,3.006,Medium
+POST_00604,Facebook,Long Video,Fitness,Thursday,7,3891,69,2,927,1,0,5.435,1026,77,10,17,9.254,High
+POST_00605,X,Image,Lifestyle,Monday,10,4248,385,8,0,1,0,3.73,1423,136,15,7,11.847,High
+POST_00606,Facebook,Long Video,Technology,Wednesday,6,16858,27,4,1028,0,0,7.0,5619,804,68,200,19.127,High
+POST_00607,X,Text,Education,Saturday,20,2981,77,0,0,0,0,5.968,1099,76,13,15,9.791,High
+POST_00608,Instagram,Carousel,Business,Saturday,23,11576,125,2,0,0,0,7.289,3991,705,106,139,24.634,High
+POST_00609,Facebook,Carousel,Lifestyle,Thursday,2,17100,120,4,0,0,0,6.793,6398,688,79,149,14.186,High
+POST_00610,TikTok,Short Video,Education,Friday,17,7418,69,6,78,1,0,7.559,711,134,19,28,25.0,High
+POST_00611,YouTube,Short Video,Travel,Monday,8,22249,19,1,46,0,0,1.697,2470,258,52,0,13.055,High
+POST_00612,YouTube,Long Video,Business,Thursday,1,5977,32,7,228,1,0,4.569,1742,270,55,17,18.809,High
+POST_00613,X,Image,Food,Thursday,22,6542,100,7,0,0,0,6.254,3823,364,46,7,11.015,High
+POST_00614,X,Text,Education,Sunday,1,3049,14,5,0,1,1,6.908,2184,158,40,30,10.917,High
+POST_00615,Instagram,Short Video,Business,Wednesday,4,22408,131,5,33,0,0,2.094,3199,168,24,18,6.188,High
+POST_00616,Facebook,Short Video,Entertainment,Tuesday,0,3764,184,1,28,0,0,4.594,1362,116,16,34,12.888,High
+POST_00617,Facebook,Text,Entertainment,Wednesday,11,11496,147,5,0,0,0,3.335,4881,291,40,47,7.474,High
+POST_00618,TikTok,Short Video,Fitness,Tuesday,14,7545,166,0,61,1,0,8.838,2673,510,111,54,25.0,High
+POST_00619,Instagram,Carousel,Lifestyle,Thursday,7,2827,14,2,0,0,0,1.492,1350,52,5,7,4.578,Medium
+POST_00620,Instagram,Short Video,Education,Friday,1,4406,71,5,59,1,0,2.096,2857,149,15,16,5.909,High
+POST_00621,Facebook,Text,Fitness,Saturday,2,32301,39,6,0,0,0,1.182,4360,125,30,18,4.142,Medium
+POST_00622,TikTok,Short Video,Lifestyle,Sunday,22,9913,22,3,49,1,0,3.465,3706,712,146,133,25.0,High
+POST_00623,X,Text,Travel,Monday,19,2953,61,4,0,1,0,11.115,1098,209,41,24,25.0,High
+POST_00624,TikTok,Short Video,Entertainment,Tuesday,22,10996,225,4,88,0,1,3.123,5946,1045,213,178,25.0,High
+POST_00625,X,Image,Business,Wednesday,12,7001,264,1,0,1,1,3.383,1655,39,6,4,4.044,Medium
+POST_00626,TikTok,Short Video,Fitness,Tuesday,13,256285,43,4,45,0,0,4.331,113755,19981,1809,3712,22.474,High
+POST_00627,Facebook,Short Video,Entertainment,Saturday,18,10776,91,1,23,1,0,3.002,1134,133,23,2,14.304,High
+POST_00628,Instagram,Carousel,Food,Monday,14,5537,113,3,0,0,0,3.914,2782,456,46,19,19.088,High
+POST_00629,YouTube,Long Video,Business,Monday,10,33524,72,3,1479,1,0,3.97,15354,1346,135,301,11.508,High
+POST_00630,Facebook,Short Video,Education,Sunday,7,1285,192,3,61,0,1,2.01,465,62,12,0,13.69,High
+POST_00631,X,Text,Travel,Sunday,11,8904,61,5,0,0,0,3.039,5731,388,29,48,7.72,High
+POST_00632,Facebook,Text,Technology,Tuesday,1,59541,54,7,0,1,0,4.812,32890,3045,273,973,12.842,High
+POST_00633,Instagram,Carousel,Business,Wednesday,4,7214,45,2,0,0,0,5.333,2795,379,43,26,15.972,High
+POST_00634,TikTok,Short Video,Entertainment,Thursday,17,1431,71,1,8,0,1,6.536,1245,242,50,21,25.0,High
+POST_00635,Instagram,Image,Fitness,Thursday,20,5453,5,6,0,0,0,3.848,3016,364,78,2,14.796,High
+POST_00636,Instagram,Image,Business,Sunday,2,34700,74,5,0,1,0,3.892,5505,176,15,24,3.903,Medium
+POST_00637,YouTube,Short Video,Lifestyle,Wednesday,2,11802,95,4,51,0,0,4.834,4920,690,86,29,16.125,High
+POST_00638,Facebook,Short Video,Education,Monday,2,3502,99,3,60,0,0,2.307,1439,49,8,2,4.703,Medium
+POST_00639,Facebook,Text,Technology,Wednesday,18,4083,37,3,0,1,0,2.256,1846,92,14,3,4.983,Medium
+POST_00640,X,Image,Food,Thursday,7,4629,98,5,0,1,0,2.988,2852,90,10,22,4.104,Medium
+POST_00641,Facebook,Image,Fitness,Thursday,7,11628,97,4,0,0,0,1.587,4191,124,14,4,3.28,Medium
+POST_00642,Facebook,Short Video,Technology,Thursday,0,30890,98,3,73,0,0,4.003,3833,432,69,32,13.699,High
+POST_00643,Instagram,Image,Business,Sunday,23,23211,149,8,0,0,0,5.698,8198,1242,95,152,18.082,High
+POST_00644,Instagram,Story,Food,Saturday,10,12784,36,2,0,1,0,2.165,6763,910,161,0,15.012,High
+POST_00645,YouTube,Short Video,Fitness,Tuesday,19,2139,72,4,90,0,0,4.065,608,40,5,12,10.434,High
+POST_00646,X,Image,Business,Wednesday,16,2147,18,0,0,0,0,2.264,204,1,0,1,1.625,Low
+POST_00647,Instagram,Carousel,Business,Friday,3,13811,140,6,0,0,0,1.829,3492,479,80,7,15.646,High
+POST_00648,TikTok,Short Video,Lifestyle,Wednesday,19,2110,41,5,75,0,0,9.912,989,212,33,1,25.0,High
+POST_00649,YouTube,Short Video,Lifestyle,Wednesday,13,6466,164,1,42,0,0,1.844,834,66,12,2,9.408,High
+POST_00650,Instagram,Short Video,Fitness,Tuesday,14,10983,167,5,34,1,0,1.583,3232,201,17,41,8.659,High
+POST_00651,TikTok,Short Video,Food,Tuesday,4,2597,78,2,52,0,0,3.601,404,66,8,17,24.459,High
+POST_00652,X,Short Video,Technology,Saturday,20,2909,75,5,58,0,1,3.709,1379,80,12,10,7.589,High
+POST_00653,YouTube,Long Video,Fitness,Saturday,22,7375,25,5,1066,1,1,4.619,1599,176,35,22,14.754,High
+POST_00654,Instagram,Short Video,Fitness,Saturday,9,13408,89,6,58,0,0,9.62,1905,409,77,0,25.0,High
+POST_00655,X,Image,Business,Wednesday,2,23424,148,4,0,0,0,2.087,11190,133,17,18,1.573,Low
+POST_00656,TikTok,Image,Lifestyle,Monday,20,14869,107,3,0,0,0,2.328,2528,137,28,16,7.099,High
+POST_00657,X,Text,Travel,Tuesday,21,8722,207,5,0,1,1,7.752,1980,377,41,66,25.0,High
+POST_00658,Instagram,Carousel,Entertainment,Wednesday,12,3842,66,6,0,0,0,5.364,1604,339,27,26,24.853,High
+POST_00659,YouTube,Short Video,Business,Thursday,13,2776,66,5,22,1,0,4.969,291,66,7,10,25.0,High
+POST_00660,TikTok,Short Video,Education,Sunday,5,4861,43,6,24,0,0,2.313,480,55,12,9,16.135,High
+POST_00661,Instagram,Short Video,Travel,Sunday,1,12209,295,3,14,0,0,5.944,3979,795,127,98,25.0,High
+POST_00662,X,Short Video,Education,Monday,22,11346,25,5,22,0,0,4.977,3268,221,33,32,9.199,High
+POST_00663,Instagram,Story,Business,Friday,11,992,141,4,0,0,0,3.552,387,63,12,10,19.678,High
+POST_00664,Instagram,Short Video,Business,Wednesday,6,3693,150,4,61,0,0,2.32,2386,218,16,30,10.729,High
+POST_00665,TikTok,Short Video,Travel,Tuesday,16,27024,146,6,56,1,1,3.393,11958,1499,151,394,16.696,High
+POST_00666,Facebook,Text,Travel,Thursday,0,8771,46,6,0,0,0,7.923,3581,265,24,52,10.585,High
+POST_00667,Facebook,Text,Technology,Monday,1,1964,78,6,0,0,1,1.753,1601,39,3,10,3.24,Medium
+POST_00668,X,Text,Entertainment,Wednesday,5,85461,128,5,0,1,0,2.061,30373,659,97,97,2.748,Medium
+POST_00669,Instagram,Short Video,Business,Thursday,10,7871,55,5,84,0,0,2.266,4134,339,40,49,9.868,High
+POST_00670,TikTok,Long Video,Food,Tuesday,8,11900,70,8,173,0,1,2.553,6309,934,176,34,18.099,High
+POST_00671,Instagram,Carousel,Travel,Friday,4,12082,55,4,0,0,1,3.172,7229,816,185,151,16.088,High
+POST_00672,YouTube,Long Video,Fitness,Thursday,8,5610,93,5,471,0,1,5.421,4631,733,170,92,21.818,High
+POST_00673,X,Short Video,Fitness,Saturday,8,3914,89,4,81,1,1,4.124,424,65,6,8,21.248,High
+POST_00674,Facebook,Text,Lifestyle,Tuesday,12,67621,230,2,0,1,0,3.309,40135,842,117,19,2.489,Medium
+POST_00675,YouTube,Long Video,Technology,Monday,13,22097,130,2,1128,0,0,3.727,8036,673,64,240,12.319,High
+POST_00676,TikTok,Long Video,Technology,Thursday,21,18433,31,7,979,1,0,4.51,7849,1147,146,359,20.932,High
+POST_00677,X,Text,Food,Tuesday,19,14418,33,9,0,0,1,1.269,6550,103,15,1,1.731,Low
+POST_00678,TikTok,Short Video,Fitness,Friday,7,2971,143,4,57,1,1,5.769,917,161,25,42,25.0,High
+POST_00679,Instagram,Short Video,Entertainment,Monday,21,29071,88,5,30,1,1,2.031,4616,815,133,0,20.131,High
+POST_00680,TikTok,Short Video,Entertainment,Friday,12,3487,284,4,64,0,1,2.507,2912,613,116,0,25.0,High
+POST_00681,Instagram,Short Video,Education,Sunday,4,10756,283,8,89,0,0,3.859,4685,687,65,224,21.611,High
+POST_00682,Instagram,Short Video,Food,Monday,8,1572,43,4,79,1,0,3.07,908,152,37,29,22.989,High
+POST_00683,Instagram,Carousel,Fitness,Wednesday,17,1052,108,3,0,0,0,4.183,258,59,4,5,25.0,High
+POST_00684,TikTok,Long Video,Entertainment,Saturday,19,11139,33,8,639,0,0,3.46,2656,372,90,47,18.558,High
+POST_00685,YouTube,Short Video,Fitness,Thursday,8,3607,141,5,75,1,0,2.729,978,122,21,13,15.833,High
+POST_00686,TikTok,Short Video,Education,Tuesday,3,1108,251,4,12,0,0,7.418,234,37,3,11,25.0,High
+POST_00687,TikTok,Short Video,Travel,Tuesday,4,13913,98,6,39,0,1,4.724,6833,1349,180,157,25.0,High
+POST_00688,X,Text,Fitness,Saturday,2,67513,65,3,0,0,0,3.778,41429,747,80,54,2.199,Medium
+POST_00689,Facebook,Text,Fitness,Sunday,16,32518,115,7,0,1,0,4.683,18839,1772,340,73,11.417,High
+POST_00690,YouTube,Long Video,Fitness,Wednesday,12,6264,160,4,1346,0,1,2.171,3062,201,25,67,9.488,High
+POST_00691,Instagram,Image,Lifestyle,Thursday,10,8175,161,3,0,0,0,10.583,2279,420,83,23,25.0,High
+POST_00692,X,Image,Business,Saturday,16,19686,65,3,0,0,0,1.759,8438,81,9,10,1.405,Low
+POST_00693,Instagram,Short Video,Fitness,Tuesday,19,24887,54,6,33,0,0,3.406,10676,1371,340,194,17.645,High
+POST_00694,TikTok,Short Video,Entertainment,Tuesday,19,5747,104,5,57,1,0,2.734,2699,571,63,52,25.0,High
+POST_00695,X,Text,Business,Saturday,3,8384,68,1,0,0,0,2.677,3230,82,14,7,3.428,Medium
+POST_00696,YouTube,Short Video,Fitness,Tuesday,14,10944,192,6,52,1,0,2.493,1042,48,11,12,7.07,High
+POST_00697,Facebook,Short Video,Lifestyle,Saturday,21,14099,68,4,87,0,0,2.093,1739,118,11,7,8.595,High
+POST_00698,YouTube,Short Video,Business,Thursday,18,7093,93,3,72,1,1,6.152,6080,830,74,176,16.43,High
+POST_00699,YouTube,Short Video,Entertainment,Sunday,7,7186,113,3,27,0,1,1.65,4902,273,47,57,8.019,High
+POST_00700,Instagram,Image,Fitness,Monday,9,32203,26,4,0,1,0,5.496,19981,974,197,226,7.264,High
+POST_00701,Instagram,Short Video,Fitness,Sunday,21,27160,57,3,87,0,1,4.572,10029,1853,388,214,25.0,High
+POST_00702,TikTok,Short Video,Business,Tuesday,0,13061,276,3,9,1,0,2.595,5027,628,78,142,17.284,High
+POST_00703,Instagram,Short Video,Food,Monday,12,45211,156,5,30,0,0,4.289,11913,2205,491,286,25.0,High
+POST_00704,X,Text,Business,Saturday,2,5505,67,2,0,0,0,2.934,3292,189,38,0,6.11,High
+POST_00705,Instagram,Short Video,Lifestyle,Thursday,21,41067,141,3,80,0,1,1.746,13527,921,174,44,7.985,High
+POST_00706,YouTube,Long Video,Travel,Saturday,0,13939,190,4,114,0,1,1.757,8947,487,42,161,7.755,High
+POST_00707,Facebook,Short Video,Entertainment,Monday,0,213421,75,5,54,0,1,4.589,51798,6963,597,915,16.427,High
+POST_00708,Facebook,Image,Business,Monday,7,2459,151,3,0,1,0,4.46,344,25,5,1,7.487,High
+POST_00709,TikTok,Long Video,Travel,Thursday,4,4066,137,7,1560,1,0,3.656,685,128,24,12,25.0,High
+POST_00710,TikTok,Long Video,Fitness,Sunday,11,12317,34,4,1415,0,0,2.58,4702,1007,154,0,25.0,High
+POST_00711,X,Text,Education,Wednesday,7,12054,75,2,0,1,0,2.882,6766,152,34,21,3.156,Medium
+POST_00712,YouTube,Short Video,Technology,Saturday,8,56961,234,3,44,0,0,2.675,37001,2912,272,1026,11.364,High
+POST_00713,Facebook,Text,Entertainment,Sunday,13,4153,271,4,0,0,0,1.224,1806,52,11,13,3.753,Medium
+POST_00714,X,Text,Business,Sunday,13,20028,157,4,0,1,0,3.31,7693,329,61,53,5.879,High
+POST_00715,Facebook,Image,Technology,Thursday,22,25912,56,8,0,0,0,4.265,13695,622,129,48,5.861,High
+POST_00716,Instagram,Image,Travel,Friday,11,16393,10,6,0,0,0,3.321,1907,97,21,22,7.736,High
+POST_00717,YouTube,Long Video,Business,Thursday,13,3099,50,1,756,0,0,8.467,1677,57,8,8,4.739,Medium
+POST_00718,Instagram,Short Video,Education,Friday,16,33115,30,1,86,0,0,1.842,16964,1741,138,146,11.928,High
+POST_00719,YouTube,Long Video,Travel,Thursday,4,27703,245,3,1113,0,0,2.225,10578,326,65,0,3.581,Medium
+POST_00720,X,Short Video,Lifestyle,Thursday,16,14758,17,2,13,0,0,3.443,1374,73,13,4,7.332,High
+POST_00721,TikTok,Short Video,Education,Thursday,20,9940,35,11,44,0,0,3.659,1940,314,39,34,21.002,High
+POST_00722,TikTok,Short Video,Lifestyle,Friday,7,10158,102,5,69,1,0,1.125,2953,175,37,1,5.836,High
+POST_00723,Instagram,Carousel,Food,Saturday,4,7489,88,7,0,1,1,4.458,6232,1199,149,192,25.0,High
+POST_00724,X,Text,Travel,Sunday,8,15379,227,4,0,0,0,3.668,6827,241,33,44,4.761,Medium
+POST_00725,Instagram,Image,Fitness,Friday,6,8359,132,10,0,0,0,0.997,3099,44,10,6,1.766,Low
+POST_00726,Instagram,Image,Entertainment,Monday,14,3468,79,10,0,0,0,3.001,1242,83,16,20,9.525,High
+POST_00727,Instagram,Carousel,Lifestyle,Friday,20,2839,194,4,0,0,0,2.051,1489,99,20,6,9.551,High
+POST_00728,Instagram,Short Video,Lifestyle,Wednesday,14,3819,66,8,27,0,0,2.494,1010,127,27,10,17.341,High
+POST_00729,TikTok,Short Video,Fitness,Monday,3,10118,239,3,30,1,0,1.533,1354,54,9,15,6.404,High
+POST_00730,TikTok,Short Video,Food,Monday,7,7887,45,3,78,1,1,4.023,4960,887,111,212,25.0,High
+POST_00731,TikTok,Short Video,Education,Friday,16,10050,86,3,48,0,0,8.433,2688,553,106,2,25.0,High
+POST_00732,Instagram,Short Video,Education,Sunday,7,13370,12,6,17,1,0,3.702,3550,353,58,73,14.235,High
+POST_00733,Instagram,Short Video,Education,Thursday,14,4327,162,7,12,1,0,0.976,1467,35,6,6,3.488,Medium
+POST_00734,TikTok,Long Video,Business,Thursday,16,35089,98,6,186,1,0,3.744,7661,554,97,127,9.665,High
+POST_00735,Instagram,Short Video,Food,Monday,7,6199,239,8,31,0,0,2.875,3752,371,31,119,13.641,High
+POST_00736,Facebook,Image,Technology,Friday,15,5253,73,6,0,1,0,1.746,2956,86,6,12,2.968,Medium
+POST_00737,Instagram,Carousel,Travel,Monday,9,13126,25,1,0,1,0,3.887,8465,698,135,175,12.307,High
+POST_00738,TikTok,Short Video,Entertainment,Saturday,3,1291,121,7,39,0,0,5.191,813,156,33,24,25.0,High
+POST_00739,TikTok,Short Video,Education,Saturday,8,3675,58,8,43,1,1,2.216,1286,272,35,4,25.0,High
+POST_00740,TikTok,Short Video,Lifestyle,Sunday,10,21613,147,6,17,1,0,1.296,6417,832,88,154,16.805,High
+POST_00741,Instagram,Image,Entertainment,Tuesday,0,1425,45,5,0,0,1,1.058,919,14,1,3,2.165,Medium
+POST_00742,Instagram,Carousel,Travel,Tuesday,21,24774,212,3,0,0,0,2.219,2205,61,11,4,3.368,Medium
+POST_00743,X,Text,Travel,Wednesday,12,36722,93,3,0,0,0,2.938,23741,999,101,290,5.867,High
+POST_00744,Instagram,Image,Fitness,Saturday,0,5600,80,6,0,1,0,2.409,482,63,10,11,15.727,High
+POST_00745,TikTok,Long Video,Business,Tuesday,20,10848,204,4,1251,0,0,2.198,4154,91,17,13,3.56,Medium
+POST_00746,TikTok,Long Video,Technology,Sunday,20,24812,164,5,1088,0,0,4.373,11442,2180,330,493,25.0,High
+POST_00747,TikTok,Short Video,Entertainment,Tuesday,0,5080,51,8,70,0,0,4.128,3053,585,106,115,25.0,High
+POST_00748,TikTok,Long Video,Lifestyle,Monday,3,19298,161,2,792,1,0,3.571,8629,751,155,31,11.143,High
+POST_00749,Facebook,Image,Entertainment,Tuesday,8,4141,140,3,0,1,0,5.014,1740,300,36,92,23.981,High
+POST_00750,X,Short Video,Business,Saturday,12,5026,83,4,13,0,0,2.23,1262,56,6,18,6.021,High
+POST_00751,Instagram,Story,Food,Friday,17,3643,152,5,0,0,0,1.753,1518,102,8,19,7.927,High
+POST_00752,TikTok,Short Video,Travel,Wednesday,10,11414,212,3,44,0,0,2.401,5790,473,90,52,10.152,High
+POST_00753,Instagram,Short Video,Lifestyle,Friday,14,25795,85,4,51,0,1,2.312,13019,1979,414,74,19.115,High
+POST_00754,TikTok,Image,Fitness,Friday,0,6740,85,4,0,1,0,1.036,3534,142,29,37,5.964,High
+POST_00755,Facebook,Text,Lifestyle,Thursday,15,2272,82,4,0,0,0,2.37,271,17,3,1,8.256,High
+POST_00756,Instagram,Story,Technology,Thursday,21,2744,49,3,0,1,1,5.876,1004,193,33,2,25.0,High
+POST_00757,TikTok,Short Video,Fitness,Monday,12,12023,84,7,6,1,0,4.971,7539,1506,181,232,25.0,High
+POST_00758,X,Text,Business,Tuesday,10,51231,78,2,0,1,0,4.272,13543,1830,195,133,15.521,High
+POST_00759,Instagram,Short Video,Food,Thursday,7,12012,74,2,12,0,0,3.44,5218,981,180,130,25.0,High
+POST_00760,TikTok,Short Video,Fitness,Monday,22,5503,73,1,37,0,0,7.1,2070,370,75,87,25.0,High
+POST_00761,Facebook,Short Video,Food,Thursday,0,17434,35,2,71,0,0,1.786,10702,278,45,45,3.345,Medium
+POST_00762,Instagram,Carousel,Technology,Monday,6,6377,174,3,0,1,0,1.882,1101,40,6,6,3.523,Medium
+POST_00763,Instagram,Short Video,Business,Saturday,3,5550,57,4,56,1,1,5.939,1878,360,46,16,20.823,High
+POST_00764,Instagram,Image,Business,Monday,20,3107,220,5,0,1,0,3.249,1775,91,12,20,7.218,High
+POST_00765,X,Image,Lifestyle,Monday,11,33138,41,7,0,1,0,2.212,15234,777,142,127,7.163,High
+POST_00766,Instagram,Image,Business,Friday,22,639,252,6,0,0,0,4.335,248,28,4,1,13.616,High
+POST_00767,Instagram,Short Video,Technology,Tuesday,15,17995,68,3,32,0,0,2.514,5490,269,58,42,6.865,High
+POST_00768,Instagram,Short Video,Fitness,Wednesday,13,5096,162,4,46,1,0,2.019,1602,156,18,19,13.641,High
+POST_00769,Instagram,Carousel,Food,Wednesday,12,5375,98,4,0,0,0,1.988,3294,187,41,24,8.121,High
+POST_00770,YouTube,Long Video,Travel,Tuesday,4,44016,30,0,797,1,0,3.819,20357,2185,241,85,12.091,High
+POST_00771,Instagram,Carousel,Travel,Saturday,13,3967,32,2,0,1,0,3.584,2418,235,31,62,13.385,High
+POST_00772,YouTube,Image,Technology,Friday,16,4104,53,3,0,1,1,7.37,3513,724,137,18,25.0,High
+POST_00773,YouTube,Long Video,Fitness,Tuesday,23,7112,65,2,1756,1,0,2.728,2786,196,43,10,9.021,High
+POST_00774,X,Text,Food,Friday,13,12256,87,5,0,0,1,2.703,7075,250,49,0,4.185,Medium
+POST_00775,Instagram,Image,Travel,Friday,22,5209,113,1,0,0,0,7.064,2365,489,40,28,25.0,High
+POST_00776,X,Text,Entertainment,Thursday,22,1679,79,3,0,0,0,5.503,937,56,6,5,8.353,High
+POST_00777,YouTube,Long Video,Fitness,Friday,12,3409,109,3,944,1,0,3.465,1553,89,19,20,9.095,High
+POST_00778,Instagram,Story,Food,Sunday,10,29182,121,2,0,0,0,1.356,4241,174,35,17,5.38,High
+POST_00779,Facebook,Long Video,Technology,Thursday,3,8732,76,4,1328,1,0,2.048,5389,200,28,8,4.318,Medium
+POST_00780,X,Text,Lifestyle,Wednesday,6,12721,138,5,0,0,0,1.792,5810,120,9,20,2.688,Medium
+POST_00781,Instagram,Story,Fitness,Thursday,21,6239,159,4,0,0,0,3.265,3592,175,24,6,5.658,High
+POST_00782,X,Text,Lifestyle,Saturday,3,4190,123,5,0,0,0,2.42,1349,64,4,9,5.263,High
+POST_00783,TikTok,Long Video,Education,Friday,9,43372,128,4,1665,1,1,7.727,20527,3894,491,859,25.0,High
+POST_00784,YouTube,Short Video,Business,Monday,16,6713,102,2,31,0,1,1.348,4283,81,15,18,3.076,Medium
+POST_00785,X,Image,Technology,Thursday,5,5201,184,3,0,0,0,1.689,2717,63,6,16,2.546,Medium
+POST_00786,TikTok,Long Video,Entertainment,Saturday,23,24249,88,4,1513,0,0,3.661,3024,321,57,14,12.388,High
+POST_00787,Facebook,Image,Entertainment,Tuesday,15,3934,54,3,0,0,1,4.263,1657,322,55,38,25.0,High
+POST_00788,TikTok,Short Video,Travel,Sunday,0,4470,90,3,84,1,0,0.771,2319,149,24,44,10.4,High
+POST_00789,Facebook,Text,Lifestyle,Saturday,5,8186,31,1,0,0,0,1.232,5284,92,11,9,2.191,Medium
+POST_00790,YouTube,Short Video,Lifestyle,Saturday,17,8105,28,2,58,0,0,2.768,702,42,10,9,8.085,High
+POST_00791,Instagram,Image,Technology,Monday,20,10505,159,2,0,0,1,6.746,3275,387,64,57,15.526,High
+POST_00792,TikTok,Short Video,Education,Friday,22,65622,222,4,66,0,0,9.038,22637,4345,937,343,25.0,High
+POST_00793,TikTok,Short Video,Food,Thursday,20,11341,70,6,52,0,0,2.548,2348,209,29,30,11.018,High
+POST_00794,Instagram,Image,Education,Friday,1,751,160,12,0,0,0,2.913,71,0,0,0,4.483,Medium
+POST_00795,Instagram,Carousel,Travel,Saturday,17,11229,15,2,0,0,0,2.02,4351,300,63,0,8.244,High
+POST_00796,TikTok,Long Video,Technology,Wednesday,2,8415,123,4,1460,0,0,4.533,3788,538,47,49,16.89,High
+POST_00797,Instagram,Carousel,Entertainment,Thursday,1,8462,88,2,0,0,1,7.418,3623,747,83,82,25.0,High
+POST_00798,Instagram,Carousel,Technology,Friday,16,10362,245,0,0,1,0,6.385,3013,490,95,0,17.837,High
+POST_00799,Facebook,Text,Entertainment,Saturday,11,7874,80,4,0,0,0,3.149,5053,428,64,94,11.11,High
+POST_00800,Facebook,Short Video,Lifestyle,Saturday,15,7687,39,4,21,1,0,2.018,2707,118,15,34,5.56,High
+POST_00801,Facebook,Text,Entertainment,Wednesday,20,14958,24,6,0,1,0,3.214,8001,563,146,104,10.062,High
+POST_00802,TikTok,Short Video,Fitness,Sunday,1,4712,90,1,52,1,0,6.839,1148,223,19,29,25.0,High
+POST_00803,X,Short Video,Business,Monday,12,3141,102,4,79,0,0,2.567,1737,127,23,29,9.143,High
+POST_00804,YouTube,Long Video,Technology,Thursday,20,166671,76,4,1315,1,0,1.179,91587,3518,626,0,4.584,Medium
+POST_00805,Instagram,Image,Education,Friday,10,3960,163,3,0,1,1,2.625,1243,74,14,5,8.464,High
+POST_00806,Instagram,Story,Education,Monday,12,8956,207,1,0,1,0,2.745,4064,261,35,15,7.597,High
+POST_00807,Facebook,Short Video,Travel,Thursday,11,1815,69,2,57,1,0,1.175,850,17,1,5,2.784,Medium
+POST_00808,Instagram,Image,Lifestyle,Friday,21,9103,18,3,0,0,0,3.636,3024,90,17,3,3.693,Medium
+POST_00809,TikTok,Short Video,Lifestyle,Friday,1,3186,109,6,26,1,0,4.227,1660,314,63,32,25.0,High
+POST_00810,X,Image,Education,Monday,21,5205,187,5,0,1,1,8.9,1791,251,28,40,19.167,High
+POST_00811,Instagram,Image,Fitness,Tuesday,19,23041,69,2,0,0,1,1.538,11074,336,40,27,3.571,Medium
+POST_00812,Instagram,Carousel,Education,Tuesday,19,12990,128,5,0,0,0,4.782,8370,733,122,153,12.161,High
+POST_00813,X,Text,Business,Friday,9,14305,36,4,0,1,0,5.446,2601,265,22,23,11.59,High
+POST_00814,YouTube,Long Video,Entertainment,Wednesday,12,1378,107,3,860,0,0,4.259,226,48,9,2,25.0,High
+POST_00815,Instagram,Carousel,Education,Friday,8,50863,129,7,0,1,0,1.839,8191,242,50,1,3.282,Medium
+POST_00816,X,Text,Fitness,Saturday,6,2460,109,4,0,0,0,1.781,1596,23,3,6,2.374,Medium
+POST_00817,X,Text,Lifestyle,Saturday,21,37367,286,5,0,1,0,3.376,6395,273,66,53,6.28,High
+POST_00818,YouTube,Short Video,Fitness,Tuesday,12,22506,220,1,7,0,1,3.363,5725,566,127,122,14.597,High
+POST_00819,YouTube,Long Video,Education,Sunday,17,14433,144,9,442,1,0,2.352,6870,314,57,18,5.75,High
+POST_00820,Instagram,Carousel,Travel,Tuesday,2,3446,176,2,0,0,0,6.511,1767,259,64,43,19.496,High
+POST_00821,Instagram,Short Video,Lifestyle,Monday,18,9429,107,3,18,1,1,2.567,4842,1085,122,27,25.0,High
+POST_00822,YouTube,Short Video,Travel,Monday,15,5059,86,2,32,0,0,1.129,3238,151,29,0,6.658,High
+POST_00823,Instagram,Image,Business,Tuesday,23,8341,64,5,0,0,0,2.829,852,17,1,8,3.997,Medium
+POST_00824,YouTube,Short Video,Food,Sunday,3,6311,36,4,19,0,0,4.167,2738,537,76,38,21.852,High
+POST_00825,Facebook,Short Video,Lifestyle,Tuesday,12,1055,227,1,89,0,1,3.862,606,102,17,21,23.902,High
+POST_00826,Instagram,Carousel,Lifestyle,Friday,12,24879,293,2,0,1,1,3.846,8836,1086,108,258,15.714,High
+POST_00827,YouTube,Long Video,Fitness,Wednesday,12,7471,92,5,702,0,0,7.278,4427,663,135,113,20.135,High
+POST_00828,Instagram,Carousel,Education,Monday,1,4990,93,1,0,0,0,1.733,1971,51,7,3,3.128,Medium
+POST_00829,X,Text,Entertainment,Thursday,11,4627,133,1,0,1,1,2.535,1376,155,20,6,12.906,High
+POST_00830,Instagram,Short Video,Fitness,Monday,7,11596,80,1,38,0,1,7.485,2040,340,64,91,25.0,High
+POST_00831,YouTube,Short Video,Education,Thursday,14,3315,40,6,16,0,0,1.084,467,11,1,3,3.27,Medium
+POST_00832,YouTube,Long Video,Lifestyle,Thursday,5,849,30,5,726,1,0,3.107,502,35,3,8,8.625,High
+POST_00833,TikTok,Short Video,Fitness,Thursday,10,12174,286,1,81,0,1,6.291,3659,702,73,121,25.0,High
+POST_00834,YouTube,Long Video,Lifestyle,Tuesday,14,13617,21,1,1600,1,0,6.239,8129,1441,359,266,25.0,High
+POST_00835,Facebook,Image,Business,Saturday,1,6636,112,7,0,1,0,4.601,985,47,8,1,4.989,Medium
+POST_00836,YouTube,Long Video,Business,Friday,18,2571,23,5,800,0,0,4.665,1647,152,21,3,11.633,High
+POST_00837,Facebook,Text,Education,Tuesday,17,8856,83,1,0,0,0,1.805,4915,93,17,13,2.856,Medium
+POST_00838,X,Text,Entertainment,Thursday,1,1873,69,3,0,1,0,6.81,273,24,4,1,10.005,High
+POST_00839,TikTok,Short Video,Business,Monday,1,2900,27,6,52,0,0,1.654,374,29,3,4,9.981,High
+POST_00840,TikTok,Long Video,Education,Sunday,20,3824,136,3,1585,1,0,1.709,2057,136,12,23,8.332,High
+POST_00841,Instagram,Carousel,Technology,Saturday,6,18843,37,5,0,0,0,3.961,2345,195,29,8,9.197,High
+POST_00842,Facebook,Text,Business,Wednesday,20,5638,24,4,0,0,1,2.44,1746,74,8,14,4.667,Medium
+POST_00843,YouTube,Long Video,Food,Friday,11,5177,146,2,199,1,0,3.585,2778,165,34,10,7.716,High
+POST_00844,TikTok,Long Video,Lifestyle,Friday,8,57221,69,1,1601,0,0,4.055,34179,1388,166,335,5.574,High
+POST_00845,Instagram,Story,Education,Friday,6,11527,50,5,0,0,1,8.509,8054,1701,266,102,25.0,High
+POST_00846,X,Text,Technology,Monday,15,11372,152,2,0,0,0,4.062,6678,153,23,40,3.187,Medium
+POST_00847,TikTok,Short Video,Food,Sunday,2,5598,36,3,62,1,0,2.277,2234,404,82,69,25.0,High
+POST_00848,Facebook,Short Video,Education,Sunday,9,4463,19,4,34,0,0,4.642,2340,475,106,32,25.0,High
+POST_00849,Instagram,Image,Food,Sunday,8,910,198,6,0,0,0,2.025,251,12,1,3,5.958,High
+POST_00850,X,Text,Technology,Sunday,3,21348,262,4,0,0,1,5.288,15204,2505,224,713,22.314,High
+POST_00851,Instagram,Story,Lifestyle,Sunday,8,12686,81,7,0,1,0,3.316,5930,723,140,144,16.799,High
+POST_00852,Instagram,Image,Business,Saturday,12,6773,3,2,0,0,1,3.989,3727,323,28,29,10.596,High
+POST_00853,X,Text,Business,Monday,16,7064,81,7,0,0,0,1.202,4560,15,1,4,0.408,Low
+POST_00854,X,Image,Fitness,Thursday,2,16918,158,3,0,0,0,0.928,5883,89,16,13,1.659,Low
+POST_00855,Instagram,Carousel,Food,Tuesday,20,1711,185,5,0,0,0,1.401,740,45,3,5,7.452,High
+POST_00856,TikTok,Short Video,Technology,Tuesday,21,4492,39,5,31,0,0,8.359,1664,394,35,38,25.0,High
+POST_00857,Facebook,Text,Education,Saturday,16,2601,72,4,0,1,1,1.702,802,19,3,6,4.151,Medium
+POST_00858,X,Text,Lifestyle,Saturday,22,47643,106,4,0,1,0,4.787,12783,427,61,51,4.283,Medium
+POST_00859,TikTok,Short Video,Education,Thursday,10,19451,152,2,56,0,1,2.248,16750,1528,349,185,12.778,High
+POST_00860,TikTok,Short Video,Lifestyle,Saturday,19,895,141,3,49,0,0,2.804,271,51,6,8,25.0,High
+POST_00861,Facebook,Text,Technology,Monday,17,1783,127,3,0,0,0,3.122,833,37,4,5,4.994,Medium
+POST_00862,Facebook,Image,Food,Tuesday,13,7098,185,2,0,0,1,7.903,3864,517,109,133,20.246,High
+POST_00863,Facebook,Short Video,Lifestyle,Sunday,4,5052,86,4,6,0,0,4.413,2966,185,37,15,8.123,High
+POST_00864,YouTube,Short Video,Lifestyle,Thursday,13,2155,228,4,71,0,0,3.955,1103,177,24,39,22.213,High
+POST_00865,Instagram,Carousel,Fitness,Thursday,21,56656,59,5,0,1,0,6.53,7137,792,136,79,13.59,High
+POST_00866,X,Short Video,Entertainment,Thursday,23,11076,143,4,10,0,0,2.259,3130,208,40,49,9.865,High
+POST_00867,X,Text,Entertainment,Tuesday,10,13027,65,7,0,0,1,5.759,8543,570,65,41,8.04,High
+POST_00868,Facebook,Text,Fitness,Saturday,5,4056,82,4,0,1,0,5.253,697,56,5,11,9.804,High
+POST_00869,Instagram,Carousel,Food,Saturday,17,16685,92,5,0,0,0,5.221,6122,1129,221,214,25.0,High
+POST_00870,Instagram,Short Video,Travel,Friday,1,5538,62,4,86,0,0,2.938,1446,137,15,13,11.383,High
+POST_00871,Facebook,Text,Fitness,Wednesday,3,6103,190,4,0,0,0,2.516,713,11,1,4,3.305,Medium
+POST_00872,Instagram,Carousel,Business,Friday,13,14928,68,7,0,1,1,1.983,13066,1217,196,112,12.312,High
+POST_00873,X,Text,Fitness,Sunday,23,1589,88,3,0,0,1,2.053,1307,20,2,4,2.157,Medium
+POST_00874,TikTok,Long Video,Travel,Friday,7,40015,132,4,149,0,0,1.932,20251,1514,195,493,10.988,High
+POST_00875,Facebook,Carousel,Entertainment,Thursday,10,9724,365,7,0,0,0,3.915,1892,202,31,44,15.88,High
+POST_00876,X,Text,Food,Tuesday,7,29171,135,4,0,0,0,2.822,18770,549,130,111,4.27,Medium
+POST_00877,TikTok,Image,Business,Thursday,10,2764,94,6,0,0,1,4.057,1640,56,10,2,3.819,Medium
+POST_00878,TikTok,Short Video,Travel,Wednesday,0,3219,16,4,89,0,0,4.185,2030,372,44,38,23.222,High
+POST_00879,YouTube,Short Video,Technology,Friday,14,2535,81,2,49,1,0,1.787,264,7,1,3,4.342,Medium
+POST_00880,YouTube,Short Video,Business,Monday,14,10407,54,3,38,1,0,1.757,1861,115,29,20,9.267,High
+POST_00881,TikTok,Short Video,Lifestyle,Tuesday,7,8655,71,4,21,0,1,2.822,5445,1189,192,9,25.0,High
+POST_00882,YouTube,Short Video,Education,Saturday,6,5092,64,5,60,0,0,2.089,3040,214,42,42,9.501,High
+POST_00883,X,Image,Travel,Wednesday,18,2939,131,1,0,0,0,1.972,529,7,0,3,2.172,Medium
+POST_00884,TikTok,Short Video,Technology,Thursday,4,2283,79,2,18,0,1,8.132,803,147,13,21,25.0,High
+POST_00885,Instagram,Short Video,Education,Thursday,1,7719,45,5,15,1,1,1.377,4327,226,31,70,8.137,High
+POST_00886,TikTok,Short Video,Entertainment,Thursday,0,5086,162,9,60,0,0,9.736,3304,724,134,0,25.0,High
+POST_00887,TikTok,Short Video,Education,Saturday,21,4082,33,3,84,1,0,3.751,2187,373,92,80,25.0,High
+POST_00888,Instagram,Carousel,Business,Tuesday,8,38066,91,4,0,0,0,5.505,23084,2925,285,232,15.256,High
+POST_00889,Instagram,Short Video,Travel,Saturday,2,7462,81,6,23,1,0,5.159,3468,649,125,89,24.215,High
+POST_00890,Facebook,Short Video,Business,Tuesday,21,28855,114,2,57,1,0,4.493,16738,2361,548,417,19.936,High
+POST_00891,TikTok,Short Video,Entertainment,Wednesday,3,4754,186,2,17,1,0,7.982,1754,365,80,39,25.0,High
+POST_00892,X,Short Video,Travel,Friday,8,10350,400,2,12,1,0,1.764,1560,146,19,3,9.685,High
+POST_00893,Instagram,Short Video,Food,Sunday,0,7665,94,3,59,1,0,2.936,3713,601,69,96,19.731,High
+POST_00894,Instagram,Image,Lifestyle,Tuesday,16,1483,54,2,0,0,0,2.002,627,23,5,6,5.535,High
+POST_00895,Facebook,Text,Fitness,Friday,16,33804,50,0,0,0,0,1.259,12056,200,21,10,2.008,Medium
+POST_00896,X,Text,Business,Monday,18,7078,49,3,0,0,0,2.224,1675,58,7,17,5.06,High
+POST_00897,Instagram,Image,Technology,Monday,6,17092,112,4,0,1,0,8.963,9007,1568,192,510,25.0,High
+POST_00898,Instagram,Carousel,Education,Saturday,7,3819,12,5,0,0,0,2.909,2091,150,27,41,10.924,High
+POST_00899,Instagram,Image,Travel,Saturday,22,6871,31,5,0,1,0,9.527,1976,236,20,24,13.711,High
+POST_00900,YouTube,Short Video,Entertainment,Wednesday,19,3405,112,3,69,0,0,10.078,2073,380,68,87,25.0,High
+POST_00901,TikTok,Long Video,Entertainment,Friday,0,27889,167,6,1748,1,0,16.618,8108,1458,352,227,25.0,High
+POST_00902,Instagram,Image,Food,Wednesday,16,11063,168,9,0,0,0,9.126,1563,314,43,5,23.127,High
+POST_00903,Instagram,Short Video,Travel,Tuesday,19,11696,97,6,23,1,0,11.706,2045,441,96,13,25.0,High
+POST_00904,TikTok,Long Video,Travel,Thursday,13,31513,154,3,1177,0,0,3.827,11403,746,170,97,9.006,High
+POST_00905,X,Image,Travel,Wednesday,15,25753,188,2,0,0,1,3.628,4363,259,50,16,6.993,High
+POST_00906,YouTube,Long Video,Business,Saturday,0,17419,67,6,627,1,0,3.763,8526,1331,243,254,21.867,High
+POST_00907,TikTok,Short Video,Entertainment,Wednesday,0,1955,176,8,72,0,0,3.2,1042,199,42,15,22.755,High
+POST_00908,Instagram,Story,Lifestyle,Wednesday,0,4041,22,1,0,0,0,3.475,1588,150,25,27,13.324,High
+POST_00909,Instagram,Carousel,Fitness,Thursday,3,2969,30,4,0,1,1,4.84,2361,492,51,69,25.0,High
+POST_00910,Instagram,Image,Technology,Saturday,23,16773,70,8,0,1,0,2.477,10465,862,177,0,9.102,High
+POST_00911,Facebook,Short Video,Fitness,Tuesday,15,9610,19,4,12,0,0,1.5,3220,77,12,14,3.332,Medium
+POST_00912,X,Text,Technology,Sunday,18,2017,133,2,0,0,0,3.908,263,13,3,3,7.472,High
+POST_00913,X,Text,Technology,Thursday,7,6709,60,0,0,0,0,2.186,1421,21,3,5,2.881,Medium
+POST_00914,X,Image,Education,Friday,22,1818,82,3,0,0,1,2.314,1116,70,8,7,8.381,High
+POST_00915,X,Text,Food,Sunday,4,7683,84,2,0,0,0,2.958,2391,136,24,3,7.258,High
+POST_00916,X,Short Video,Travel,Thursday,21,1547,69,6,41,0,0,2.608,727,15,2,2,2.344,Medium
+POST_00917,Instagram,Carousel,Travel,Tuesday,0,13750,49,1,0,0,0,5.892,6325,660,85,10,11.902,High
+POST_00918,Instagram,Image,Lifestyle,Saturday,0,11824,128,4,0,0,0,2.92,5025,324,63,0,7.54,High
+POST_00919,TikTok,Short Video,Fitness,Monday,1,54608,59,2,59,1,0,6.058,9281,1931,269,11,23.301,High
+POST_00920,YouTube,Short Video,Entertainment,Thursday,19,18918,83,3,70,0,0,3.584,4596,139,10,24,3.683,Medium
+POST_00921,Instagram,Carousel,Fitness,Sunday,6,5308,115,4,0,0,0,3.048,1567,93,18,18,8.679,High
+POST_00922,X,Text,Technology,Wednesday,10,18362,187,10,0,1,1,3.491,13631,646,54,107,5.7,High
+POST_00923,YouTube,Short Video,Business,Friday,11,2002,178,7,12,1,0,1.573,938,38,6,10,6.254,High
+POST_00924,YouTube,Short Video,Fitness,Thursday,18,3094,63,6,74,0,0,3.854,1384,144,17,47,12.67,High
+POST_00925,Instagram,Carousel,Education,Tuesday,8,11306,47,9,0,1,0,5.105,5236,694,83,161,17.434,High
+POST_00926,Instagram,Carousel,Travel,Wednesday,0,936,212,3,0,0,1,5.519,463,80,19,8,25.0,High
+POST_00927,Instagram,Carousel,Fitness,Thursday,9,7807,58,5,0,0,1,1.521,1081,46,4,6,5.651,High
+POST_00928,X,Text,Entertainment,Monday,6,2921,125,6,0,0,0,1.388,568,13,2,3,4.116,Medium
+POST_00929,YouTube,Short Video,Lifestyle,Wednesday,17,8967,18,3,35,0,0,2.382,1434,102,20,28,10.776,High
+POST_00930,Facebook,Image,Entertainment,Wednesday,18,2758,12,3,0,1,0,6.853,321,38,3,4,14.657,High
+POST_00931,Instagram,Image,Lifestyle,Saturday,2,12385,94,5,0,0,0,3.614,3246,161,34,8,5.972,High
+POST_00932,TikTok,Long Video,Business,Monday,19,8261,75,2,821,1,1,2.09,5899,539,62,146,11.892,High
+POST_00933,TikTok,Image,Business,Saturday,1,32871,147,4,0,0,1,1.439,6462,393,65,81,7.902,High
+POST_00934,Facebook,Text,Food,Wednesday,14,8157,50,2,0,0,0,2.197,1170,23,5,6,2.372,Medium
+POST_00935,Facebook,Short Video,Lifestyle,Friday,9,3756,109,2,59,0,1,2.117,764,99,17,0,11.736,High
+POST_00936,Instagram,Short Video,Lifestyle,Thursday,7,6330,142,6,56,0,0,5.353,1479,272,36,68,25.0,High
+POST_00937,X,Text,Business,Wednesday,11,2112,51,3,0,1,0,5.585,412,82,15,0,21.528,High
+POST_00938,Instagram,Short Video,Entertainment,Sunday,7,12162,70,3,59,1,0,1.796,1069,120,28,16,13.868,High
+POST_00939,X,Image,Travel,Tuesday,19,14615,36,3,0,1,0,4.842,3472,191,26,11,6.736,High
+POST_00940,Instagram,Short Video,Business,Monday,23,95721,150,4,66,1,1,4.577,83722,14328,2904,3775,25.0,High
+POST_00941,Instagram,Story,Travel,Saturday,19,4351,129,3,0,0,0,1.673,1182,76,10,13,8.773,High
+POST_00942,X,Text,Fitness,Friday,10,6199,136,5,0,0,0,3.056,1242,22,3,5,3.498,Medium
+POST_00943,Instagram,Short Video,Business,Sunday,12,4556,75,1,71,0,0,3.86,1651,144,22,28,11.668,High
+POST_00944,TikTok,Long Video,Entertainment,Thursday,10,10017,128,6,754,1,1,3.501,2849,679,64,30,25.0,High
+POST_00945,TikTok,Short Video,Business,Monday,19,11869,80,5,23,0,0,1.249,4735,304,52,14,7.345,High
+POST_00946,Instagram,Story,Education,Monday,13,7681,235,3,0,0,0,3.439,2368,106,11,29,5.791,High
+POST_00947,Facebook,Image,Education,Thursday,11,24012,89,3,0,1,0,4.541,14195,1156,84,153,10.075,High
+POST_00948,X,Short Video,Entertainment,Tuesday,9,4372,171,6,43,0,0,7.629,2662,370,59,96,19.088,High
+POST_00949,X,Image,Food,Sunday,9,21724,75,4,0,0,0,2.215,10567,151,12,12,1.759,Low
+POST_00950,TikTok,Short Video,Entertainment,Monday,13,13884,204,4,19,0,0,2.371,2817,375,62,54,17.607,High
+POST_00951,YouTube,Long Video,Fitness,Sunday,16,8006,47,4,187,0,0,2.853,2803,276,47,62,13.209,High
+POST_00952,Instagram,Image,Education,Tuesday,10,5913,119,4,0,0,0,3.756,1502,148,15,39,14.478,High
+POST_00953,Instagram,Short Video,Fitness,Monday,19,91735,55,1,81,1,0,3.375,49079,8634,1087,2422,25.0,High
+POST_00954,Instagram,Short Video,Entertainment,Tuesday,19,3579,106,5,58,1,0,4.462,345,59,4,6,25.0,High
+POST_00955,X,Image,Food,Tuesday,10,10915,59,7,0,0,1,1.723,6743,220,38,39,4.271,Medium
+POST_00956,X,Short Video,Education,Wednesday,21,3826,88,3,50,1,0,3.981,1010,85,11,24,12.405,High
+POST_00957,Facebook,Image,Business,Wednesday,4,48320,65,4,0,1,0,2.127,17113,261,45,4,1.729,Low
+POST_00958,TikTok,Short Video,Technology,Thursday,22,19669,138,3,81,1,1,2.957,7012,779,146,153,15.74,High
+POST_00959,TikTok,Short Video,Food,Thursday,7,4111,122,6,72,1,1,8.187,1597,314,47,89,25.0,High
+POST_00960,YouTube,Short Video,Technology,Monday,13,13529,53,1,12,1,0,1.483,6282,558,43,86,11.565,High
+POST_00961,YouTube,Long Video,Food,Monday,6,10484,52,4,231,0,0,2.744,4397,336,48,110,10.816,High
+POST_00962,TikTok,Short Video,Technology,Tuesday,10,4833,44,3,29,0,0,1.587,1059,48,5,4,5.418,High
+POST_00963,Instagram,Carousel,Education,Tuesday,8,17294,37,4,0,0,0,3.481,1813,148,18,21,9.848,High
+POST_00964,Instagram,Carousel,Travel,Monday,16,11959,145,4,0,0,0,5.696,6791,743,177,100,14.912,High
+POST_00965,X,Short Video,Fitness,Wednesday,1,10053,42,5,78,1,0,3.513,3625,279,28,54,9.994,High
+POST_00966,TikTok,Short Video,Lifestyle,Thursday,20,7770,112,8,85,0,0,3.001,3361,446,56,107,17.954,High
+POST_00967,X,Short Video,Education,Wednesday,21,12469,61,2,38,0,0,6.644,4469,863,175,60,25.0,High
+POST_00968,Instagram,Carousel,Business,Wednesday,13,10192,168,3,0,1,0,3.838,4411,495,106,23,14.585,High
+POST_00969,YouTube,Short Video,Lifestyle,Thursday,13,8596,272,6,71,1,0,5.022,3759,790,110,47,25.0,High
+POST_00970,Instagram,Short Video,Business,Thursday,16,4268,3,2,21,0,0,4.742,378,44,7,7,18.595,High
+POST_00971,Instagram,Carousel,Travel,Wednesday,4,44080,47,3,0,1,0,0.658,16924,208,16,25,1.35,Low
+POST_00972,Instagram,Carousel,Business,Tuesday,17,2834,60,3,0,0,0,3.068,1037,93,21,21,11.28,High
+POST_00973,Instagram,Short Video,Fitness,Wednesday,5,12427,77,6,59,0,0,1.769,1672,172,26,2,11.895,High
+POST_00974,X,Text,Entertainment,Monday,16,5882,73,4,0,0,0,2.028,2971,119,19,28,5.788,High
+POST_00975,TikTok,Short Video,Education,Thursday,7,47077,30,5,23,1,0,7.201,10095,2014,229,135,24.583,High
+POST_00976,YouTube,Long Video,Entertainment,Sunday,17,3283,275,2,346,0,0,2.604,364,21,3,3,6.104,High
+POST_00977,TikTok,Short Video,Technology,Wednesday,18,3884,75,2,86,0,0,9.062,2088,331,70,72,25.0,High
+POST_00978,TikTok,Long Video,Food,Monday,5,3072,122,2,1744,1,1,1.475,2376,325,30,78,17.638,High
+POST_00979,YouTube,Short Video,Business,Friday,14,11197,124,3,39,1,1,1.763,3283,283,39,6,9.211,High
+POST_00980,Instagram,Story,Entertainment,Monday,11,2052,24,7,0,0,0,4.867,968,239,18,26,25.0,High
+POST_00981,X,Image,Fitness,Tuesday,7,5021,68,3,0,0,0,2.652,415,3,0,1,2.199,Medium
+POST_00982,Facebook,Text,Education,Tuesday,14,941,145,4,0,1,0,3.789,462,25,2,7,6.028,High
+POST_00983,Facebook,Text,Technology,Sunday,23,10305,213,7,0,1,0,3.008,3554,60,12,4,2.04,Medium
+POST_00984,TikTok,Short Video,Education,Sunday,0,4913,69,1,58,0,0,2.959,2612,325,52,71,17.136,High
+POST_00985,Instagram,Short Video,Lifestyle,Thursday,22,1829,28,6,6,0,0,2.707,556,28,4,3,5.566,High
+POST_00986,X,Text,Food,Friday,20,23995,56,7,0,0,0,3.532,6721,483,68,109,9.234,High
+POST_00987,TikTok,Long Video,Fitness,Friday,12,2191,67,7,405,1,0,4.554,1225,237,34,10,25.0,High
+POST_00988,Instagram,Short Video,Travel,Friday,14,17978,65,1,37,0,0,7.776,1834,374,45,37,25.0,High
+POST_00989,TikTok,Short Video,Food,Thursday,8,4019,44,2,80,1,0,2.863,750,68,9,14,12.005,High
+POST_00990,Facebook,Text,Lifestyle,Sunday,3,40197,26,2,0,0,0,2.577,12658,448,46,59,4.131,Medium
+POST_00991,YouTube,Short Video,Business,Saturday,13,17146,35,5,65,1,0,2.401,7199,1215,165,252,22.976,High
+POST_00992,Facebook,Short Video,Business,Monday,19,2957,57,3,35,0,0,7.182,245,46,10,9,25.0,High
+POST_00993,Facebook,Long Video,Business,Wednesday,5,3238,143,1,1559,1,0,4.678,1320,143,17,37,15.586,High
+POST_00994,Instagram,Image,Travel,Sunday,17,14846,180,3,0,0,0,1.126,4390,108,23,17,2.844,Medium
+POST_00995,X,Image,Travel,Wednesday,17,6233,95,6,0,0,0,1.099,2736,28,6,5,1.322,Low
+POST_00996,TikTok,Long Video,Education,Tuesday,18,6840,36,5,675,0,0,2.027,4083,300,51,18,9.141,High
+POST_00997,YouTube,Short Video,Food,Sunday,8,28918,59,6,32,0,0,3.632,9580,477,36,64,6.079,High
+POST_00998,Instagram,Short Video,Technology,Friday,9,3832,12,4,57,0,0,3.142,1517,303,50,41,25.0,High
+POST_00999,X,Text,Lifestyle,Thursday,9,8877,215,2,0,1,0,4.247,3051,178,32,0,6.984,High
+POST_01000,Instagram,Short Video,Education,Wednesday,20,21049,52,6,49,1,0,2.906,3105,607,73,28,22.953,High
+POST_01001,Instagram,Image,Entertainment,Monday,21,18198,115,4,0,0,0,6.901,9682,1017,137,305,15.201,High
+POST_01002,TikTok,Long Video,Business,Wednesday,9,6907,172,7,378,0,0,4.893,4037,253,32,43,8.339,High
+POST_01003,Instagram,Story,Business,Thursday,23,6069,254,2,0,0,1,3.339,4445,692,89,23,18.359,High
+POST_01004,Instagram,Image,Fitness,Sunday,13,1423,154,2,0,1,0,6.008,882,120,11,36,17.963,High
+POST_01005,YouTube,Short Video,Education,Wednesday,9,2817,65,4,26,0,0,1.292,976,42,4,10,5.48,High
+POST_01006,TikTok,Short Video,Fitness,Tuesday,0,11140,126,2,42,0,0,3.054,5033,971,153,0,21.45,High
+POST_01007,X,Image,Entertainment,Wednesday,14,7059,248,4,0,0,0,3.451,1242,69,9,5,6.229,High
+POST_01008,TikTok,Short Video,Fitness,Sunday,15,8733,52,5,77,0,1,4.456,7507,1620,171,123,25.0,High
+POST_01009,Facebook,Image,Education,Thursday,23,22908,24,4,0,0,1,1.246,12707,195,39,0,2.105,Medium
+POST_01010,TikTok,Short Video,Lifestyle,Wednesday,17,2471,44,5,18,0,0,2.773,566,57,7,16,15.74,High
+POST_01011,YouTube,Image,Education,Friday,0,6398,120,4,0,0,1,3.988,4656,512,47,66,14.267,High
+POST_01012,YouTube,Long Video,Business,Friday,13,9786,66,6,929,1,0,4.16,4054,515,51,47,14.81,High
+POST_01013,TikTok,Long Video,Food,Wednesday,17,4007,83,3,1712,0,0,6.144,2489,493,65,122,25.0,High
+POST_01014,X,Text,Business,Sunday,11,33910,134,2,0,0,0,4.865,17595,528,94,146,4.583,Medium
+POST_01015,TikTok,Long Video,Education,Friday,10,20102,43,6,1472,0,0,3.095,11659,2079,197,630,25.0,High
+POST_01016,Instagram,Image,Fitness,Monday,19,10830,80,4,0,1,0,4.638,4240,351,68,5,9.595,High
+POST_01017,YouTube,Short Video,Technology,Wednesday,14,48738,59,4,49,1,0,2.865,18270,752,151,16,4.75,Medium
+POST_01018,X,Short Video,Technology,Sunday,16,1810,242,2,67,0,0,3.469,926,82,9,5,9.75,High
+POST_01019,Instagram,Story,Travel,Wednesday,11,8040,150,3,0,1,1,4.954,1518,241,49,35,23.4,High
+POST_01020,TikTok,Short Video,Education,Thursday,6,11688,66,6,5,0,0,3.121,1295,261,42,22,25.0,High
+POST_01021,X,Text,Business,Friday,12,3246,64,9,0,0,0,3.905,2079,91,21,22,6.741,High
+POST_01022,Facebook,Short Video,Education,Friday,23,10945,259,3,77,1,1,5.43,8899,1832,197,84,24.403,High
+POST_01023,X,Text,Lifestyle,Sunday,14,2679,246,1,0,1,0,4.734,1673,141,23,15,11.206,High
+POST_01024,YouTube,Short Video,Entertainment,Tuesday,16,16164,120,1,65,0,0,6.306,1867,393,32,49,25.0,High
+POST_01025,YouTube,Long Video,Food,Thursday,2,23337,85,6,1405,0,0,11.517,5449,1019,84,281,25.0,High
+POST_01026,TikTok,Short Video,Food,Thursday,23,10639,30,4,53,0,0,4.71,6318,1075,254,215,25.0,High
+POST_01027,X,Image,Fitness,Tuesday,5,1270,44,5,0,0,0,2.483,166,4,0,2,3.165,Medium
+POST_01028,TikTok,Short Video,Travel,Friday,23,3081,28,5,25,1,0,4.24,1039,228,30,13,25.0,High
+POST_01029,Facebook,Image,Travel,Monday,10,14252,176,6,0,0,0,4.141,3912,66,8,19,2.105,Medium
+POST_01030,TikTok,Short Video,Business,Thursday,22,8276,31,4,17,1,0,4.484,4812,1038,203,0,24.612,High
+POST_01031,YouTube,Short Video,Technology,Wednesday,21,547,63,1,30,0,1,7.282,277,52,7,12,25.0,High
+POST_01032,Facebook,Short Video,Entertainment,Tuesday,18,28080,15,4,59,1,1,1.267,9306,778,80,130,10.026,High
+POST_01033,TikTok,Short Video,Entertainment,Saturday,21,9289,22,3,84,1,0,7.358,3519,623,113,116,25.0,High
+POST_01034,X,Short Video,Lifestyle,Tuesday,14,3572,138,2,42,1,1,8.854,694,111,13,37,25.0,High
+POST_01035,TikTok,Long Video,Food,Tuesday,20,21915,107,6,1245,0,1,4.374,14697,2950,341,451,25.0,High
+POST_01036,YouTube,Long Video,Education,Saturday,4,4115,88,6,810,0,1,4.432,2402,439,82,63,25.0,High
+POST_01037,TikTok,Short Video,Business,Sunday,1,4070,64,0,63,0,0,2.802,1719,238,54,19,18.014,High
+POST_01038,TikTok,Short Video,Business,Monday,13,11595,19,6,27,0,0,3.211,3821,494,93,31,15.718,High
+POST_01039,TikTok,Short Video,Entertainment,Tuesday,19,48100,57,3,29,1,0,4.697,11915,1325,133,327,15.494,High
+POST_01040,Instagram,Short Video,Travel,Friday,18,41092,76,3,59,0,1,4.534,6505,1270,156,177,25.0,High
+POST_01041,Instagram,Carousel,Food,Saturday,12,11611,132,4,0,0,0,4.757,7196,1389,266,57,25.0,High
+POST_01042,YouTube,Short Video,Technology,Sunday,12,12866,170,4,26,0,1,4.517,5513,947,126,285,25.0,High
+POST_01043,YouTube,Short Video,Fitness,Thursday,14,17881,141,2,55,0,0,5.245,6484,660,131,90,13.335,High
+POST_01044,YouTube,Short Video,Food,Monday,20,2305,107,4,59,0,0,4.932,678,120,20,32,25.0,High
+POST_01045,Instagram,Carousel,Lifestyle,Sunday,20,15431,87,3,0,0,0,1.822,9923,466,113,105,6.983,High
+POST_01046,TikTok,Short Video,Food,Tuesday,2,3889,100,3,9,1,1,5.058,2802,499,74,150,25.0,High
+POST_01047,Instagram,Carousel,Entertainment,Monday,14,11142,54,4,0,0,0,8.894,1499,289,62,12,25.0,High
+POST_01048,Facebook,Short Video,Lifestyle,Friday,9,6454,92,5,38,1,0,3.153,2753,288,45,81,14.208,High
+POST_01049,X,Text,Business,Friday,19,13375,76,5,0,0,1,7.3,6432,412,71,0,7.3,High
+POST_01050,Instagram,Carousel,Entertainment,Monday,12,9118,326,6,0,0,0,1.932,4852,461,46,48,12.351,High
+POST_01051,YouTube,Long Video,Food,Tuesday,23,375,101,2,789,1,0,3.148,243,17,3,5,9.532,High
+POST_01052,Instagram,Short Video,Lifestyle,Friday,10,9690,11,3,57,1,0,2.249,4886,338,41,47,8.657,High
+POST_01053,Instagram,Carousel,Technology,Tuesday,16,15400,61,4,0,0,1,6.833,11912,2033,183,765,25.0,High
+POST_01054,Instagram,Short Video,Entertainment,Friday,2,12656,70,7,32,1,0,7.889,4638,809,129,216,25.0,High
+POST_01055,Instagram,Story,Food,Wednesday,22,7313,154,4,0,0,0,3.03,2142,237,21,13,12.944,High
+POST_01056,YouTube,Long Video,Food,Friday,3,41863,111,4,569,0,0,6.094,18698,2044,464,143,14.191,High
+POST_01057,X,Short Video,Food,Thursday,9,11063,107,2,35,1,0,7.933,5610,503,115,117,12.399,High
+POST_01058,Instagram,Short Video,Lifestyle,Wednesday,20,12552,200,9,14,1,0,3.143,2632,576,100,2,25.0,High
+POST_01059,YouTube,Short Video,Food,Wednesday,23,23028,247,5,7,0,0,3.437,8449,1081,143,29,14.454,High
+POST_01060,Facebook,Short Video,Fitness,Friday,11,11644,138,6,52,1,1,4.791,2277,437,50,67,25.0,High
+POST_01061,X,Image,Fitness,Thursday,11,3301,65,2,0,1,0,2.013,671,41,4,5,6.931,High
+POST_01062,YouTube,Image,Food,Friday,1,707,66,8,0,0,1,3.4,556,109,11,11,22.513,High
+POST_01063,Instagram,Carousel,Lifestyle,Friday,23,5028,184,5,0,0,1,10.399,1102,220,33,14,25.0,High
+POST_01064,YouTube,Short Video,Food,Tuesday,0,17343,66,4,6,0,0,2.431,9408,861,174,71,11.273,High
+POST_01065,TikTok,Short Video,Food,Sunday,0,5692,82,1,24,0,0,5.118,1664,347,33,31,25.0,High
+POST_01066,X,Text,Business,Thursday,11,18055,60,6,0,1,0,4.268,8272,321,24,64,5.088,High
+POST_01067,TikTok,Long Video,Technology,Saturday,0,9402,36,3,1499,0,0,2.924,5630,223,22,61,5.604,High
+POST_01068,Facebook,Short Video,Lifestyle,Sunday,3,29379,310,2,31,0,0,3.615,15427,1300,220,390,12.09,High
+POST_01069,Instagram,Short Video,Fitness,Sunday,15,6031,83,3,11,0,0,8.39,3321,590,48,148,25.0,High
+POST_01070,TikTok,Long Video,Fitness,Friday,16,12934,219,4,737,0,0,4.339,2960,459,71,129,22.342,High
+POST_01071,X,Image,Technology,Saturday,7,13438,67,5,0,1,0,4.728,3845,135,14,47,4.687,Medium
+POST_01072,YouTube,Long Video,Education,Thursday,19,36373,52,3,1282,0,0,7.719,18102,3527,332,700,25.0,High
+POST_01073,TikTok,Long Video,Fitness,Saturday,14,1470,130,4,179,0,0,2.729,768,95,16,0,12.831,High
+POST_01074,X,Image,Fitness,Wednesday,5,5123,170,1,0,0,0,1.799,2716,14,3,4,1.103,Low
+POST_01075,X,Short Video,Business,Friday,17,18930,177,5,65,1,0,8.463,9500,1745,197,433,25.0,High
+POST_01076,TikTok,Short Video,Food,Monday,14,38021,75,1,65,1,0,3.45,8061,986,102,78,14.784,High
+POST_01077,YouTube,Long Video,Food,Sunday,19,10301,139,3,102,1,0,5.231,2521,477,60,91,25.0,High
+POST_01078,TikTok,Short Video,Entertainment,Tuesday,3,6046,57,5,64,0,0,2.104,3730,772,143,14,24.76,High
+POST_01079,YouTube,Long Video,Technology,Friday,5,17276,91,9,1696,0,0,3.962,6836,377,57,45,6.912,High
+POST_01080,TikTok,Short Video,Education,Monday,7,19316,70,3,62,1,0,1.75,9851,990,158,89,12.661,High
+POST_01081,Instagram,Carousel,Food,Tuesday,8,5655,62,4,0,1,0,3.314,2383,432,76,99,25.0,High
+POST_01082,X,Text,Fitness,Sunday,21,11274,94,3,0,0,1,2.241,9237,438,100,46,6.299,High
+POST_01083,X,Text,Travel,Saturday,17,26384,35,3,0,1,0,1.975,15176,451,36,74,3.846,Medium
+POST_01084,X,Image,Fitness,Tuesday,13,53661,161,2,0,0,0,2.709,12287,1132,130,390,13.495,High
+POST_01085,X,Text,Travel,Monday,12,17027,63,6,0,0,0,0.906,9948,94,13,25,1.346,Low
+POST_01086,Facebook,Image,Fitness,Saturday,21,8468,156,6,0,1,1,1.691,2869,145,22,25,6.469,High
+POST_01087,Facebook,Text,Travel,Sunday,10,7676,41,4,0,0,1,4.921,3433,188,17,26,7.004,High
+POST_01088,Facebook,Text,Technology,Tuesday,5,14148,62,4,0,1,0,3.874,7996,158,33,12,2.785,Medium
+POST_01089,TikTok,Short Video,Food,Friday,3,7217,35,4,80,0,0,1.772,1910,149,25,8,9.994,High
+POST_01090,TikTok,Short Video,Fitness,Tuesday,7,9795,34,5,27,1,0,4.325,2407,478,99,3,25.0,High
+POST_01091,Instagram,Story,Food,Saturday,15,2813,46,5,0,0,0,1.974,1297,75,19,16,7.94,High
+POST_01092,YouTube,Long Video,Food,Wednesday,11,29645,42,3,446,1,0,4.76,19263,1501,212,32,8.77,High
+POST_01093,Instagram,Short Video,Travel,Monday,10,2591,35,3,25,1,1,3.003,541,121,23,0,25.0,High
+POST_01094,Instagram,Carousel,Entertainment,Wednesday,11,5260,87,2,0,0,0,2.676,2522,159,32,26,9.301,High
+POST_01095,YouTube,Short Video,Lifestyle,Thursday,23,8933,129,0,8,0,0,3.044,3397,368,48,58,13.928,High
+POST_01096,TikTok,Short Video,Food,Saturday,23,59336,133,4,83,0,0,13.077,18634,3526,660,569,25.0,High
+POST_01097,Instagram,Short Video,Fitness,Monday,3,5309,18,6,63,0,0,2.108,2693,167,33,0,8.207,High
+POST_01098,Facebook,Image,Food,Sunday,2,4162,70,3,0,1,0,3.625,1649,64,12,9,5.844,High
+POST_01099,X,Text,Entertainment,Friday,5,4671,65,3,0,0,0,4.918,2497,262,50,34,14.604,High
+POST_01100,Instagram,Short Video,Travel,Sunday,20,42569,203,5,77,1,0,1.885,21454,3197,321,190,17.051,High
+POST_01101,Instagram,Story,Food,Sunday,11,486,72,7,0,0,0,1.332,311,20,3,2,7.23,High
+POST_01102,TikTok,Long Video,Technology,Tuesday,20,2972,82,1,457,0,0,2.299,1611,241,36,64,19.828,High
+POST_01103,Facebook,Short Video,Business,Monday,15,124403,25,4,72,1,1,4.859,19830,2297,384,172,14.464,High
+POST_01104,Facebook,Short Video,Technology,Saturday,13,14630,45,3,63,0,0,2.651,7671,421,70,11,6.754,High
+POST_01105,Instagram,Carousel,Entertainment,Tuesday,6,2681,23,6,0,0,0,2.818,1207,72,11,14,7.824,High
+POST_01106,Facebook,Carousel,Business,Tuesday,8,7770,91,2,0,0,0,5.281,1019,71,7,13,8.647,High
+POST_01107,Instagram,Short Video,Technology,Thursday,3,8668,207,2,62,0,1,2.054,4974,555,99,36,14.919,High
+POST_01108,TikTok,Short Video,Business,Sunday,12,18885,46,7,61,0,0,3.048,9592,1865,213,307,25.0,High
+POST_01109,X,Image,Food,Saturday,6,50995,72,4,0,1,1,1.392,13245,370,38,13,3.139,Medium
+POST_01110,Instagram,Story,Entertainment,Thursday,7,11950,42,4,0,0,0,3.817,3918,603,58,111,19.168,High
+POST_01111,Instagram,Story,Technology,Tuesday,0,4723,54,3,0,1,0,3.631,1838,140,23,11,9.636,High
+POST_01112,TikTok,Short Video,Business,Wednesday,19,17802,92,5,5,1,0,4.956,5616,1115,98,117,23.614,High
+POST_01113,YouTube,Short Video,Business,Friday,22,4030,270,4,88,0,0,1.704,2334,55,8,16,3.169,Medium
+POST_01114,X,Text,Entertainment,Tuesday,11,2883,200,2,0,0,0,2.879,508,14,3,4,4.841,Medium
+POST_01115,X,Text,Business,Thursday,12,1394,239,2,0,0,0,1.584,724,4,0,1,1.404,Low
+POST_01116,Instagram,Carousel,Travel,Monday,22,1694,157,4,0,1,1,2.795,1197,254,51,3,25.0,High
+POST_01117,Instagram,Image,Fitness,Wednesday,12,3306,72,4,0,0,0,7.229,1108,195,30,33,25.0,High
+POST_01118,Facebook,Text,Entertainment,Tuesday,14,2495,64,6,0,0,0,2.682,966,28,3,11,4.984,Medium
+POST_01119,Instagram,Carousel,Food,Friday,10,11083,47,3,0,0,0,1.51,1856,133,28,26,10.359,High
+POST_01120,X,Short Video,Technology,Sunday,12,2442,6,4,77,0,0,2.202,467,12,1,5,4.3,Medium
+POST_01121,YouTube,Short Video,Education,Tuesday,12,349,71,7,35,1,0,1.319,133,9,2,1,8.24,High
+POST_01122,Instagram,Image,Business,Saturday,17,2852,209,1,0,0,1,1.569,801,97,11,15,14.381,High
+POST_01123,Facebook,Carousel,Food,Friday,14,5055,207,3,0,0,0,4.628,2728,197,43,37,10.936,High
+POST_01124,Instagram,Image,Education,Sunday,12,4422,334,7,0,0,1,1.444,2574,391,57,36,18.603,High
+POST_01125,TikTok,Short Video,Lifestyle,Sunday,1,37031,97,3,87,1,0,3.8,4156,924,171,0,25.0,High
+POST_01126,YouTube,Image,Travel,Monday,21,4387,30,1,0,1,0,3.246,1245,138,12,8,13.099,High
+POST_01127,TikTok,Short Video,Technology,Saturday,21,19553,123,6,67,0,1,2.389,15027,3141,504,65,25.0,High
+POST_01128,Facebook,Image,Technology,Friday,4,7950,272,5,0,0,0,3.626,1893,75,7,16,5.492,High
+POST_01129,YouTube,Long Video,Entertainment,Monday,7,7767,226,5,1633,1,0,1.911,3807,179,35,13,5.623,High
+POST_01130,X,Text,Education,Tuesday,23,3514,59,3,0,0,0,5.082,468,17,1,4,6.006,High
+POST_01131,X,Image,Business,Sunday,7,7640,33,4,0,0,0,2.179,4663,61,9,17,1.749,Low
+POST_01132,TikTok,Short Video,Business,Thursday,19,3770,32,7,48,0,0,2.587,1267,162,26,3,15.56,High
+POST_01133,Instagram,Short Video,Education,Wednesday,18,9604,49,3,79,0,0,2.423,3459,364,52,31,11.826,High
+POST_01134,Facebook,Image,Food,Wednesday,20,6398,55,2,0,0,0,4.676,2589,393,74,20,20.474,High
+POST_01135,X,Text,Fitness,Saturday,0,3150,68,3,0,0,1,4.317,1221,114,22,22,11.476,High
+POST_01136,TikTok,Short Video,Business,Tuesday,11,21848,134,4,56,0,0,0.757,10780,847,90,256,11.074,High
+POST_01137,TikTok,Long Video,Food,Tuesday,13,12417,66,3,292,0,0,3.68,1096,89,16,0,7.485,High
+POST_01138,TikTok,Short Video,Travel,Friday,20,5176,88,3,66,0,1,1.226,1205,63,9,17,7.381,High
+POST_01139,Instagram,Short Video,Education,Sunday,5,9372,22,3,5,0,0,2.652,1758,111,21,29,9.858,High
+POST_01140,YouTube,Short Video,Education,Tuesday,7,7451,47,4,57,0,0,3.015,3294,458,48,63,18.749,High
+POST_01141,TikTok,Short Video,Technology,Tuesday,4,3402,45,7,48,0,0,2.637,1999,203,27,18,13.992,High
+POST_01142,Facebook,Image,Lifestyle,Thursday,18,8694,18,7,0,1,0,4.215,1010,33,7,8,5.421,High
+POST_01143,Facebook,Long Video,Travel,Tuesday,23,4354,65,3,1566,1,0,4.755,2463,181,43,28,10.309,High
+POST_01144,Facebook,Image,Lifestyle,Friday,3,3149,22,5,0,0,0,2.091,1722,29,6,0,2.273,Medium
+POST_01145,TikTok,Long Video,Technology,Tuesday,5,1599,61,1,1228,0,0,2.05,197,6,1,1,4.499,Medium
+POST_01146,TikTok,Short Video,Food,Monday,7,5661,93,3,70,0,0,3.137,915,171,15,35,25.0,High
+POST_01147,Facebook,Text,Business,Tuesday,21,14285,211,0,0,1,0,1.369,3993,62,8,5,1.551,Low
+POST_01148,Facebook,Text,Education,Sunday,10,4045,43,2,0,0,0,2.462,587,19,2,5,4.102,Medium
+POST_01149,TikTok,Short Video,Food,Sunday,6,100781,91,0,35,0,0,6.717,51622,10606,1857,461,25.0,High
+POST_01150,X,Text,Technology,Thursday,7,19647,52,6,0,1,0,1.398,7216,80,8,14,1.52,Low
+POST_01151,Instagram,Image,Education,Wednesday,14,29861,21,7,0,0,1,2.654,12663,521,109,0,4.826,Medium
+POST_01152,X,Short Video,Travel,Saturday,9,17948,213,2,26,0,1,2.31,11950,705,70,70,7.013,High
+POST_01153,Instagram,Image,Business,Tuesday,3,51682,96,3,0,0,0,9.641,12762,1640,147,440,17.749,High
+POST_01154,Instagram,Short Video,Entertainment,Friday,19,3688,119,7,47,1,0,2.381,2127,372,84,69,25.0,High
+POST_01155,YouTube,Long Video,Travel,Friday,10,625,235,0,140,1,0,2.458,282,29,2,4,13.128,High
+POST_01156,Instagram,Short Video,Fitness,Friday,6,5186,61,4,46,0,0,1.815,1439,43,4,17,5.069,High
+POST_01157,Instagram,Carousel,Fitness,Tuesday,17,14160,29,3,0,1,0,3.216,5490,989,152,72,22.375,High
+POST_01158,Instagram,Short Video,Technology,Saturday,17,9428,42,7,28,0,0,3.713,2148,356,81,23,23.295,High
+POST_01159,TikTok,Image,Lifestyle,Friday,3,10673,26,4,0,0,0,1.966,6846,214,28,66,4.827,Medium
+POST_01160,Facebook,Image,Education,Sunday,1,30360,176,7,0,1,0,5.512,9967,832,111,75,10.53,High
+POST_01161,Instagram,Short Video,Education,Tuesday,1,11873,279,1,50,1,0,3.714,7018,1254,142,219,22.66,High
+POST_01162,YouTube,Short Video,Entertainment,Friday,18,18014,92,2,20,1,1,5.113,15502,3316,494,83,25.0,High
+POST_01163,Facebook,Short Video,Food,Saturday,15,3166,137,3,5,1,0,2.672,1220,132,18,34,15.041,High
+POST_01164,Instagram,Story,Entertainment,Tuesday,19,2709,161,5,0,0,0,3.658,1343,94,18,27,11.498,High
+POST_01165,Instagram,Short Video,Fitness,Saturday,15,40705,245,1,16,0,0,2.846,16533,2964,492,743,25.0,High
+POST_01166,X,Image,Food,Monday,9,8963,271,1,0,0,1,7.134,1599,77,18,10,6.471,High
+POST_01167,Facebook,Image,Lifestyle,Saturday,14,4344,14,6,0,0,0,3.411,2705,175,30,12,8.275,High
+POST_01168,YouTube,Short Video,Education,Friday,17,4352,53,6,32,0,0,3.215,1480,183,34,27,16.373,High
+POST_01169,Facebook,Carousel,Food,Tuesday,9,4233,85,4,0,0,0,2.487,2495,130,22,34,8.133,High
+POST_01170,Instagram,Short Video,Travel,Monday,21,3987,48,2,48,0,0,2.409,1808,132,14,5,7.945,High
+POST_01171,TikTok,Short Video,Technology,Saturday,21,2245,69,4,22,1,0,3.647,314,56,7,18,25.0,High
+POST_01172,Facebook,Carousel,Travel,Tuesday,19,1807,113,3,0,0,0,5.022,574,60,9,11,14.617,High
+POST_01173,Instagram,Carousel,Lifestyle,Thursday,23,6667,111,4,0,0,0,2.196,1277,55,5,5,4.557,Medium
+POST_01174,Facebook,Image,Education,Monday,9,4478,158,8,0,1,0,3.431,791,18,1,4,4.104,Medium
+POST_01175,TikTok,Short Video,Fitness,Sunday,2,24517,87,1,21,0,0,3.541,11954,1894,266,386,21.853,High
+POST_01176,Facebook,Image,Business,Thursday,11,10862,7,4,0,0,0,3.897,1054,27,2,3,3.046,Medium
+POST_01177,TikTok,Long Video,Business,Sunday,17,10565,65,4,1786,0,0,1.251,6663,600,67,103,11.272,High
+POST_01178,TikTok,Short Video,Business,Tuesday,18,3854,106,3,43,1,0,1.924,1296,200,36,58,22.521,High
+POST_01179,Instagram,Image,Education,Tuesday,9,7179,165,5,0,1,1,1.51,3480,293,66,72,12.242,High
+POST_01180,Instagram,Short Video,Education,Friday,7,11626,150,2,42,0,0,3.258,2914,620,62,33,25.0,High
+POST_01181,Facebook,Text,Food,Friday,10,16584,78,2,0,0,0,1.95,2136,46,9,8,2.416,Medium
+POST_01182,Instagram,Image,Business,Saturday,19,7376,50,2,0,0,1,2.436,4135,211,15,25,5.915,High
+POST_01183,Instagram,Image,Business,Sunday,1,23840,81,4,0,0,0,1.659,6591,44,11,10,1.031,Low
+POST_01184,Instagram,Image,Lifestyle,Saturday,7,8168,17,2,0,1,0,2.563,3558,158,27,39,6.784,High
+POST_01185,Instagram,Image,Technology,Monday,5,17905,54,2,0,1,0,1.724,7104,485,66,19,8.291,High
+POST_01186,Facebook,Text,Fitness,Wednesday,19,4964,185,4,0,1,0,4.855,1010,73,11,0,8.236,High
+POST_01187,TikTok,Image,Business,Sunday,11,1322,81,7,0,1,0,4.165,453,58,9,18,19.173,High
+POST_01188,X,Text,Entertainment,Thursday,2,10597,109,5,0,0,0,3.476,2708,80,12,21,4.081,Medium
+POST_01189,Instagram,Short Video,Business,Sunday,6,16736,25,5,64,1,1,2.71,4894,761,96,67,18.394,High
+POST_01190,YouTube,Short Video,Travel,Thursday,1,14405,164,4,16,1,0,1.043,7472,426,96,21,7.253,High
+POST_01191,TikTok,Short Video,Education,Monday,11,12359,75,4,75,0,0,2.487,1072,59,12,7,8.537,High
+POST_01192,TikTok,Long Video,Travel,Thursday,23,5718,107,2,1690,1,0,2.105,1333,49,8,12,5.642,High
+POST_01193,X,Text,Fitness,Saturday,13,3616,123,3,0,1,0,3.666,1383,185,34,0,15.698,High
+POST_01194,X,Text,Business,Friday,20,14068,160,5,0,1,0,4.5,4943,307,33,91,8.953,High
+POST_01195,X,Image,Entertainment,Monday,17,12412,95,1,0,0,0,3.826,7644,368,62,73,6.602,High
+POST_01196,Instagram,Story,Business,Tuesday,21,4624,77,3,0,0,0,6.41,2593,505,77,97,25.0,High
+POST_01197,Instagram,Carousel,Education,Saturday,7,24573,31,2,0,1,1,2.341,16865,751,105,206,6.17,High
+POST_01198,YouTube,Short Video,Education,Sunday,22,3351,23,3,81,0,0,2.288,1250,122,26,8,13.19,High
+POST_01199,Instagram,Image,Technology,Saturday,5,4520,94,4,0,1,0,5.663,1466,180,38,23,16.383,High
+POST_01200,Facebook,Short Video,Fitness,Monday,10,41623,107,5,82,0,0,3.506,4197,394,83,15,11.841,High
